@@ -6,6 +6,8 @@ Depends:
   readr,
   here,
   lubridate,
-  dplyr
+  dplyr,
+  tidyr,
+  ggplot2
 Additional_repositories:
   https://epiforecasts.r-universe.dev
