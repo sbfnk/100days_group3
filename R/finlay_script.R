@@ -1,6 +1,6 @@
-## packages
+## load packages and functions
 if(!require(pacman)) install.packages("pacman")
-if(!require(epicontacts)) remotes::install_github("reconhub/epicontacts@timeline")
+pacman::p_load_gh("reconhub/epicontacts@timeline")
 pacman::p_load(tidyverse, rio, magrittr, here, distcrete, epitrix, treeio, ape,
                epicontacts, ggtree, lubridate)
 source(here("R/epicontacts_functions.R"))
