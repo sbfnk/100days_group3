@@ -2,6 +2,10 @@ Package: 100days.group3
 Version: 0.0.9000
 Depends:
   here,
-  EpiNow2
+  EpiNow2,
+  readr,
+  here,
+  lubridate,
+  dplyr
 Additional_repositories:
   https://epiforecasts.r-universe.dev
