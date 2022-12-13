@@ -1,10 +1,6 @@
-library("EpiNow2")
-library("readr")
-library("here")
-library("dplyr")
-library("tidyr")
-library("lubridate")
-library("ggplot2")
+if(!require(pacman)) install.packages("pacman")
+pacman::p_load(readr, here, dplyr, tidyr, lubridate, ggplot2)
+pacman::p_load_gh("epiforecasts/EpiNow2@develop") ## get development version
 
 source(here::here("R", "fix_onset_date.R"))
 ## code to create snapshots
