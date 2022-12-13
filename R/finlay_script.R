@@ -52,14 +52,15 @@ vis_offspring_time(epi) %>%
 ## make visnetwork
 net <- plot(
   thin(epi, "contacts"),
+  network_shape = "rectangle",
   x_axis = "onset_date",
-  height = 2000,
+  height = 2500,
   arrow_size = 0.1,
+  font_size = 25,
   label = FALSE,
   node_size = 8,
   node_color = "is_farmer",
   col_pal = c("TRUE" = "orange", "FALSE" = "purple"),
-  ## col_pal = c("female" = "orange", "male" = "purple")
   reverse_root_order = TRUE,
   selector = "id",
   axis_type = "double"
