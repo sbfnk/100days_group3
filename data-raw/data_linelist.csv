@@ -1,0 +1,538 @@
+"","X","case_name","case_type","ct_value","gender","age","onset_date","hospitalisation_date","death_date","date_first_contact","date_last_contact","REMOVE","job","rural_exposure","notification_delay_in_days","notification_date"
+"1",1,"Samiha Morgan","confirmed",25.5,"1","37","01/01/2023",NA,NA,NA,NA,FALSE,"farmer","yes",16,2023-01-17
+"2",8,"Megan Maschari","probable",NA,"1","54","08/01/2023",NA,NA,"01/01/2023","07/01/2023",FALSE,"farmer","No",14,2023-01-22
+"3",10,"Shanelle Dixon","confirmed",27.4,"1","84","08/01/2023",NA,NA,"02/01/2023","06/01/2023",FALSE,"farmer","yEs",14,2023-01-22
+"4",14,"Wafaaa el-Hannan","suspected",NA,"1","65","16/01/2023",NA,NA,"05/01/2023","12/01/2023",FALSE,"Surveyor, planning and development","No",19,2023-02-04
+"5",16,"Aadil al-Habeeb","confirmed",25.5,"0","33","12/01/2023",NA,NA,"07/01/2023","10/01/2023",FALSE,"Best boy","No",17,2023-01-29
+"6",17,"Keyla Medina","suspected",NA,"1","50","17/01/2023",NA,NA,"10/01/2023","13/01/2023",FALSE,"farmer","yes",17,2023-02-03
+"7",18,"Tanner Welch","confirmed",24.9,"0","83","11/01/2023","20/01/2023",NA,"08/01/2023","12/01/2023",FALSE,"Surveyor, planning and development","No",20,2023-01-31
+"8",19,"Mary Huynh","suspected",NA,"1","72","12/01/2023",NA,NA,"07/01/2023","11/01/2023",FALSE,"farmer","yes",18,2023-01-30
+"9",21,"Kyree Jackson","confirmed",21.9,"0","17","18/01/2023",NA,NA,"12/01/2023","15/01/2023",FALSE,"farmer","yes",9,2023-01-27
+"10",26,"Lucas Teer","confirmed",26.1,"0","18","25/01/2023",NA,NA,"16/01/2023","20/01/2023",FALSE,"farmer","yes",11,2023-02-05
+"11",27,"Martha Rafferty","probable",NA,"1","7","21/01/2023",NA,NA,"16/01/2023","19/01/2023",FALSE,"Nature conservation officer","No",9,2023-01-30
+"12",28,"Christine Johnson","confirmed",27.3,"1","17","21/01/2023",NA,NA,"20/01/2023","20/01/2023",FALSE,"Nutritional therapist","No",22,2023-02-12
+"13",29,"Urwa al-Koroma","confirmed",24.6,"1","28","27/01/2023",NA,NA,"18/01/2023","21/01/2023",FALSE,"farmer","yes",24,2023-02-20
+"14",31,"Michael Cervantes","probable",NA,"0","54","21/01/2023",NA,NA,"23/01/2023","25/01/2023",FALSE,"Administrator, sports","No",10,2023-01-31
+"15",32,"Enkhjin Chen","probable",NA,"1","87","22/01/2023","24/01/2023",NA,"20/01/2023","23/01/2023",FALSE,"farmer","yes",24,2023-02-15
+"16",33,"Zubair el-Mourad","suspected",NA,"0","15","25/01/2023",NA,NA,"21/01/2023","26/01/2023",FALSE,"farmer","yes",9,2023-02-03
+"17",34,"Aysha Hall","confirmed",25.5,"1","14","27/01/2023",NA,NA,"19/01/2023","23/01/2023",FALSE,"Contracting civil engineer","No",18,2023-02-14
+"18",36,"Clarke Addie","confirmed",25.1,"0","17","26/01/2023",NA,NA,"20/01/2023","23/01/2023",FALSE,"Charity fundraiser","yes",10,2023-02-05
+"19",37,"Ahanabah Rivera","suspected",NA,"1","39","29/01/2023",NA,NA,"23/01/2023","27/01/2023",FALSE,"Operational researcher","yes",30,2023-02-28
+"20",38,"Kira Mills Green","probable",NA,"1","69","04/02/2023",NA,NA,"30/01/2023","03/02/2023",FALSE,"Surveyor, land/geomatics","No",18,2023-02-22
+"21",41,"Markus Antonio","probable",NA,"0","67","01/02/2023",NA,NA,"19/01/2023","23/01/2023",FALSE,"Operational investment banker","No",10,2023-02-11
+"22",42,"Yesenia Aragon","confirmed",26.2,"1","52","24/01/2023",NA,NA,"24/01/2023","25/01/2023",FALSE,"Framer","yes",28,2023-02-21
+"23",44,"Marcus Costandine","probable",NA,"0","21","31/01/2023",NA,NA,"22/01/2023","28/01/2023",FALSE,"farmer","yes",10,2023-02-10
+"24",46,"Samantha Niemczura","confirmed",26.4,"1","72","28/01/2023",NA,NA,"26/01/2023","27/01/2023",FALSE,"Pharmacist, community","No",9,2023-02-06
+"25",47,"Alexis Kiyotake","confirmed",23.9,"1","67","02/02/2023",NA,NA,"30/01/2023","01/02/2023",FALSE,"Doctor, hospital","No",9,2023-02-11
+"26",48,"Alfred Lee","probable",NA,"0","43","02/02/2023",NA,NA,"29/01/2023","01/02/2023",FALSE,"Optometrist","No",14,2023-02-16
+"27",49,"Gavin Sandoval","probable",NA,"0","30","03/02/2023",NA,NA,"30/01/2023","04/02/2023",FALSE,"Software engineer","No",17,2023-02-20
+"28",53,"Jakob Makaiwi","confirmed",26.1,"0","76","29/01/2023",NA,NA,"29/01/2023","30/01/2023",FALSE,"farmer","yes",26,2023-02-24
+"29",55,"Vy Rezaie-Khodabandelou","probable",NA,"1","14","06/02/2023",NA,NA,"06/02/2023","10/02/2023",FALSE,"Therapist, drama","No",33,2023-03-11
+"30",57,"Michael Adams","confirmed",28.2,"0","57","03/02/2023",NA,NA,"01/02/2023","02/02/2023",FALSE,"Call centre manager","No",17,2023-02-20
+"31",59,"Hari Loza","confirmed",27.7,"0","52","31/01/2023",NA,NA,"30/01/2023","02/02/2023",FALSE,"farmer","yes",14,2023-02-14
+"32",62,"Alayina Najera","suspected",NA,"1","58","06/02/2023",NA,NA,"02/02/2023","04/02/2023",FALSE,"Surgeon","No",9,2023-02-15
+"33",67,"Dakota De La Rosa","confirmed",22.2,"0","61","06/02/2023",NA,NA,"02/02/2023","05/02/2023",FALSE,"Armed forces operational officer","yes",9,2023-02-15
+"34",69,"Angelica Quick","confirmed",25.6,"1","71","08/02/2023",NA,NA,"30/01/2023","01/02/2023",FALSE,"Homeopath","No",15,2023-02-23
+"35",70,"Maazina al-Abdul","suspected",NA,"1","85","08/02/2023",NA,NA,"04/02/2023","09/02/2023",FALSE,"Building control surveyor","No",14,2023-02-22
+"36",71,"Sarah Tveter","confirmed",28.2,"1","54","08/02/2023",NA,NA,"07/02/2023","09/02/2023",FALSE,"Immigration officer","No",12,2023-02-20
+"37",73,"Najeem el-Hallal","confirmed",26.4,"0","29","14/02/2023",NA,NA,"07/02/2023","10/02/2023",FALSE,"Dentist","No",12,2023-02-26
+"38",74,"Anna Li","suspected",NA,"1","34","12/02/2023",NA,NA,"06/02/2023","12/02/2023",FALSE,"Editor, magazine features","No",15,2023-02-27
+"39",76,"Yabstega Medina","confirmed",25.9,"0","14","10/02/2023",NA,NA,"04/02/2023","07/02/2023",FALSE,"Human resources officer","No",13,2023-02-23
+"40",78,"Alexandra Largo","confirmed",25.5,"1","42","08/02/2023",NA,NA,"07/02/2023","08/02/2023",FALSE,"Sales executive","No",10,2023-02-18
+"41",79,"Joanna Lucero","probable",NA,"1","1","26/02/2023",NA,NA,"10/02/2023","12/02/2023",FALSE,"Fine artist","No",8,2023-03-06
+"42",80,"Mario Martinez","confirmed",21.6,"0","46","14/02/2023",NA,NA,"11/02/2023","13/02/2023",FALSE,"Operations geologist","No",12,2023-02-26
+"43",84,"Jahayra Rosales","probable",NA,"1","43","15/02/2023",NA,NA,"10/02/2023","13/02/2023",FALSE,"Chief Operating Officer","No",21,2023-03-08
+"44",89,"Cindy Leon","suspected",NA,"1","25","03/03/2023",NA,NA,"27/02/2023","02/03/2023",FALSE,"Race relations officer","No",11,2023-03-14
+"45",90,"Reed Yancey","confirmed",24.9,"1","68","17/02/2023",NA,NA,"13/02/2023","16/02/2023",FALSE,"Professor Emeritus","No",24,2023-03-13
+"46",91,"Jerica Robinson","confirmed",28.5,"1","52","22/02/2023","25/02/2023",NA,"12/02/2023","15/02/2023",FALSE,"Rural practice surveyor","No",28,2023-03-22
+"47",93,"Enrico Terrell","confirmed",21.6,"0","9","01/03/2023",NA,NA,"25/02/2023","26/02/2023",FALSE,"Lexicographer","No",13,2023-03-14
+"48",94,"Catherine Knott","confirmed",23.5,"1","52","24/02/2023",NA,NA,"24/02/2023","25/02/2023",FALSE,"Music tutor","No",16,2023-03-12
+"49",95,"Dominique Mix","suspected",NA,"1","90","07/03/2023",NA,NA,"24/02/2023","25/02/2023",FALSE,"Theatre director","No",12,2023-03-19
+"50",96,"Tyler Myers","confirmed",25.5,"0","25","16/02/2023",NA,NA,"21/02/2023","22/02/2023",FALSE,"Operational researcher","No",14,2023-03-02
+"51",98,"Darcy Almquist","suspected",NA,"1","44","13/02/2023",NA,NA,"10/02/2023","11/02/2023",FALSE,"Pilot, airline","yes",13,2023-02-26
+"52",99,"Kylee Mead","probable",NA,"1","3mo","27/02/2023",NA,NA,"18/02/2023","22/02/2023",FALSE,"Meteorologist","No",14,2023-03-13
+"53",101,"Tai Thornton","confirmed",23.3,"0","66","14/03/2023",NA,NA,"03/03/2023","08/03/2023",FALSE,"Clinical research associate","No",10,2023-03-24
+"54",102,"Nicholas Yellowhair","confirmed",25.5,"0","18","19/02/2023",NA,NA,"24/02/2023","26/02/2023",FALSE,"Higher education lecturer","yes",10,2023-03-01
+"55",103,"Nicole Vang","probable",NA,"1","52","23/02/2023","26/02/2023",NA,"20/02/2023","23/02/2023",FALSE,"Television/film/video producer","No",17,2023-03-12
+"56",106,"Raihaana el-Siddiqi","probable",NA,"1","4","07/03/2023",NA,NA,"03/03/2023","05/03/2023",FALSE,"Chief Strategy Officer","yes",11,2023-03-18
+"57",107,"Amelia Jimenez-Herrera","confirmed",23.7,"1","75","02/03/2023",NA,NA,"02/03/2023","05/03/2023",FALSE,"Engineer, agricultural","No",17,2023-03-19
+"58",108,"Shaimaaa el-Iqbal","confirmed",29.2,"1","51","08/03/2023",NA,NA,"04/03/2023","07/03/2023",FALSE,"Physiotherapist","No",14,2023-03-22
+"59",109,"Sinh Keodara","confirmed",22.9,"0","48","09/03/2023",NA,NA,"08/03/2023","12/03/2023",FALSE,"Engineer, communications","No",24,2023-04-02
+"60",110,"Craig Forfar-Jones","suspected",NA,"0","65","15/03/2023",NA,NA,"05/03/2023","09/03/2023",FALSE,"Consulting civil engineer","No",12,2023-03-27
+"61",113,"Colton Debus","confirmed",25.5,"0","61","28/02/2023",NA,NA,"25/02/2023","25/02/2023",FALSE,"Adult guidance worker","No",4,2023-03-04
+"62",114,"Willow Olsen","confirmed",24.3,"1","5","25/02/2023",NA,NA,"23/02/2023","24/02/2023",FALSE,"farm worker","No",39,2023-04-05
+"63",115,"Chase Parker","confirmed",24.7,"0","8","24/02/2023",NA,"20/03/2023","22/02/2023","27/02/2023",FALSE,"Biochemist, clinical","No",5,2023-03-01
+"64",116,"Timket Jenkins","probable",NA,"1","84","01/03/2023",NA,NA,"26/02/2023","28/02/2023",FALSE,"farmer","yes",18,2023-03-19
+"65",117,"Urey Kim","confirmed",24.8,"0","82","18/03/2023",NA,"29/03/2023","19/03/2023","19/03/2023",FALSE,"Podiatrist","No",8,2023-03-26
+"66",118,"Paul Mejia-Montoya","confirmed",23,"0","37","18/03/2023",NA,NA,"17/03/2023","19/03/2023",FALSE,"farmer","yes",11,2023-03-29
+"67",119,"Faisal el-Chahine","probable",NA,"0","55","16/03/2023",NA,NA,"15/03/2023","16/03/2023",FALSE,"Armed forces technical officer","No",15,2023-03-31
+"68",120,"Mariah Warren","confirmed",24.6,"1","4","26/02/2023",NA,NA,"15/02/2023","21/02/2023",FALSE,"Emergency planning/management officer","No",28,2023-03-26
+"69",121,"Elijah Lucero","probable",NA,"0","47","01/03/2023",NA,NA,"23/02/2023","27/02/2023",FALSE,"Facilities manager","No",14,2023-03-15
+"70",123,"Vanessa Roberts","confirmed",24.9,"1","58","26/02/2023",NA,NA,"22/02/2023","23/02/2023",FALSE,"Banker","No",21,2023-03-19
+"71",124,"Janae Percell","probable",NA,"1","25","04/03/2023",NA,NA,"27/02/2023","28/02/2023",FALSE,"Pensions consultant","No",30,2023-04-03
+"72",125,"Abdul Rauf al-Doud","confirmed",24.5,"0","16","26/02/2023",NA,NA,"28/02/2023","04/03/2023",FALSE,"Psychologist, educational","No",17,2023-03-15
+"73",126,"Elizabeth San","probable",NA,"1","42","09/03/2023",NA,NA,"04/03/2023","08/03/2023",FALSE,"Geologist, engineering","No",6,2023-03-15
+"74",127,"Raymond Acevedo","suspected",NA,"0","64","10/03/2023",NA,NA,"06/03/2023","10/03/2023",FALSE,"Teaching laboratory technician","No",15,2023-03-25
+"75",128,"Yoo Leng","suspected",NA,"1","26","11/03/2023",NA,NA,"07/03/2023","10/03/2023",FALSE,"Restaurant manager, fast food","No",7,2023-03-18
+"76",129,"Dillan Venuto","confirmed",25.3,"0","18","13/03/2023",NA,NA,"08/03/2023","09/03/2023",FALSE,"Biomedical engineer","yes",5,2023-03-18
+"77",130,"Robert Thomas","confirmed",26.7,"0","51","11/03/2023",NA,NA,"06/03/2023","10/03/2023",FALSE,"Forensic scientist","yes",18,2023-03-29
+"78",131,"Umar el-Tahir","probable",NA,"0","29","12/03/2023",NA,NA,"13/03/2023","14/03/2023",FALSE,"Corporate treasurer","No",7,2023-03-19
+"79",132,"Kelsey Fonseca","confirmed",24.5,"1","69","17/03/2023",NA,NA,"20/03/2023","20/03/2023",FALSE,"IT consultant","No",5,2023-03-22
+"80",133,"Charlotte Hoshiko","confirmed",24.5,"1","56","18/03/2023",NA,NA,"17/03/2023","20/03/2023",FALSE,"Psychologist, educational","No",19,2023-04-06
+"81",134,"Gurleen Campbell","confirmed",24.3,"1","71","02/03/2023",NA,NA,"22/02/2023","25/02/2023",FALSE,"Conservation officer, nature","yes",15,2023-03-17
+"82",135,"Keaanee Diederich","confirmed",26.5,"0","17","21/02/2023",NA,NA,"15/02/2023","18/02/2023",FALSE,"Chief Strategy Officer","yes",12,2023-03-05
+"83",136,"Jasmine Acosta","suspected",NA,"1","64","26/02/2023",NA,NA,"26/02/2023","27/02/2023",FALSE,"English as a foreign language teacher","yes",7,2023-03-05
+"84",137,"Michelle Winkler","probable",NA,"1","12","20/03/2023",NA,"04/05/2023","14/03/2023","19/03/2023",FALSE,"Passenger transport manager","yes",17,2023-04-06
+"85",138,"Rodrigo Stewart","probable",NA,"0","13","23/03/2023",NA,NA,"15/03/2023","21/03/2023",FALSE,"Social researcher","No",25,2023-04-17
+"86",139,"Kaylene Hepp","confirmed",22.2,"1","32","23/03/2023",NA,NA,"21/03/2023","24/03/2023",FALSE,"Teacher, music","No",20,2023-04-12
+"87",140,"Amy Natividad-Gonzalez","confirmed",24.4,"1","16","25/03/2023",NA,NA,"19/03/2023","21/03/2023",FALSE,"Theatre manager","No",17,2023-04-11
+"88",141,"Michaella Krinard","probable",NA,"1","79","09/03/2023",NA,NA,"04/03/2023","06/03/2023",FALSE,"Programmer, systems","yes",11,2023-03-20
+"89",142,"Sofia Kamanawa","confirmed",23.1,"1","55","04/03/2023",NA,NA,"01/03/2023","06/03/2023",FALSE,"Financial adviser","No",14,2023-03-18
+"90",143,"Christopher Rodriguez Hernandez","confirmed",23.5,"0","86","03/03/2023",NA,"22/03/2023","02/03/2023","04/03/2023",FALSE,"Contractor","No",1,2023-03-04
+"91",144,"Tharwa el-Saeed","confirmed",22.7,"1","90","06/03/2023",NA,NA,"01/03/2023","04/03/2023",FALSE,"Engineer, electrical","No",12,2023-03-18
+"92",145,"Faadil al-Jama","confirmed",21,"0","35","02/03/2023",NA,NA,"27/02/2023","03/03/2023",FALSE,"Advertising account executive","No",21,2023-03-23
+"93",146,"Enechia Wake","probable",NA,"1","53","01/03/2023",NA,NA,"24/02/2023","28/02/2023",FALSE,"Diplomatic Services operational officer","yes",14,2023-03-15
+"94",147,"Tristan Cave","probable",NA,"0","75","16/03/2023",NA,NA,"13/03/2023","15/03/2023",FALSE,"farmer","yes",19,2023-04-04
+"95",148,"Johnathan Jimenez Jr","confirmed",26.3,"0","43","15/03/2023",NA,NA,"11/03/2023","14/03/2023",FALSE,"Chief Operating Officer","No",11,2023-03-26
+"96",149,"Hanoona el-Karam","probable",NA,"1","86","20/03/2023",NA,"23/04/2023","17/03/2023","20/03/2023",FALSE,"Oceanographer","yes",35,2023-04-24
+"97",150,"Guillermo Castillo","probable",NA,"0","74","21/03/2023",NA,NA,"15/03/2023","17/03/2023",FALSE,"Runner, broadcasting/film/video","No",8,2023-03-29
+"98",151,"Andrew Means","probable",NA,"0","22","21/03/2023",NA,NA,"19/03/2023","23/03/2023",FALSE,"Furniture designer","No",15,2023-04-05
+"99",152,"Joe Perez","probable",NA,"0","39","24/03/2023","01/04/2023",NA,"17/03/2023","20/03/2023",FALSE,"Textile designer","yes",5,2023-03-29
+"100",153,"Dylan Borunda","confirmed",28.3,"0","63","21/03/2023",NA,NA,"15/03/2023","18/03/2023",FALSE,"Immigration officer","yes",15,2023-04-05
+"101",154,"Araseli Baca","probable",NA,"1","17","09/03/2023",NA,NA,"01/03/2023","04/03/2023",FALSE,"Psychologist, counselling","No",17,2023-03-26
+"102",155,"Johnson Lee","confirmed",28.6,"0","9","05/03/2023",NA,NA,"24/02/2023","03/03/2023",FALSE,"Comptroller","No",14,2023-03-19
+"103",156,"Tiffany Clark","confirmed",24.4,"1","52","05/03/2023",NA,NA,"25/02/2023","02/03/2023",FALSE,"Customer service manager","No",8,2023-03-13
+"104",157,"Therese Carter","confirmed",22.9,"1","10","01/03/2023",NA,NA,"27/02/2023","01/03/2023",FALSE,"Speech and language therapist","No",13,2023-03-14
+"105",158,"Isabelle Padilla","probable",NA,"1","16","25/03/2023",NA,NA,"23/03/2023","23/03/2023",FALSE,"Data scientist","No",16,2023-04-10
+"106",159,"Rachael Haroon","probable",NA,"1","83","24/03/2023",NA,NA,"19/03/2023","23/03/2023",FALSE,"Building surveyor","No",17,2023-04-10
+"107",160,"Zane Munoz","suspected",NA,"0","36","23/03/2023",NA,NA,"18/03/2023","21/03/2023",FALSE,"Multimedia programmer","No",22,2023-04-14
+"108",161,"Dillon Froning","probable",NA,"0","41","31/03/2023",NA,NA,"22/03/2023","24/03/2023",FALSE,"Geographical information systems officer","No",28,2023-04-28
+"109",162,"Gary Temeyosa","probable",NA,"0","43","30/03/2023",NA,NA,"21/03/2023","24/03/2023",FALSE,"Catering manager","yes",10,2023-04-09
+"110",163,"Ossiris Arellano Ordaz","suspected",NA,"1","39","27/03/2023",NA,NA,"25/03/2023","27/03/2023",FALSE,"farmer","No",10,2023-04-06
+"111",164,"Jonathon Flemons","confirmed",22.7,"0","7","19/03/2023",NA,NA,"08/03/2023","12/03/2023",FALSE,"Press sub","No",11,2023-03-30
+"112",165,"Gettay Ford","probable",NA,"1","29","06/03/2023",NA,NA,"03/03/2023","05/03/2023",FALSE,"Clinical molecular geneticist","No",16,2023-03-22
+"113",166,"Kelly Cunningham","probable",NA,"0","66","06/03/2023",NA,NA,"07/03/2023","09/03/2023",FALSE,"English as a foreign language teacher","No",11,2023-03-17
+"114",167,"Maithao Mullison","probable",NA,"1","80","16/03/2023",NA,NA,"07/03/2023","11/03/2023",FALSE,"Fashion designer","yes",11,2023-03-27
+"115",168,"Liad Morton","confirmed",26.2,"0","7","06/03/2023",NA,NA,"01/03/2023","03/03/2023",FALSE,"Technical sales engineer","No",4,2023-03-10
+"116",169,"Jameela al-Saade","suspected",NA,"1","77","23/03/2023",NA,NA,"12/03/2023","15/03/2023",FALSE,"Pharmacologist","No",11,2023-04-03
+"117",170,"Justice Barnes","suspected",NA,"0","23","17/03/2023",NA,NA,"14/03/2023","17/03/2023",FALSE,"ffarmer","yes",19,2023-04-05
+"118",171,"Matthew Vivens","probable",NA,"0","48","19/03/2023",NA,NA,"18/03/2023","19/03/2023",FALSE,"Embryologist, clinical","No",10,2023-03-29
+"119",172,"Kyle Lewis","confirmed",26.4,"0","13","27/03/2023",NA,NA,"18/03/2023","23/03/2023",FALSE,"Nurse, learning disability","No",18,2023-04-14
+"120",173,"Kawthar al-Ishmael","suspected",NA,"1","26","23/03/2023",NA,NA,"24/03/2023","24/03/2023",FALSE,"Community development worker","No",11,2023-04-03
+"121",175,"Kyeira Hughes","probable",NA,"1","52","30/03/2023",NA,NA,"26/03/2023","28/03/2023",FALSE,"Arts development officer","No",19,2023-04-18
+"122",176,"Alysha Delosreyes","suspected",NA,"1","80","15/03/2023",NA,"25/04/2023","08/03/2023","11/03/2023",FALSE,"Psychologist, forensic","No",11,2023-03-26
+"123",177,"Chrisna Sheard","confirmed",24.6,"0","34","12/03/2023",NA,NA,"06/03/2023","09/03/2023",FALSE,"Geographical information systems officer","yes",13,2023-03-25
+"124",178,"Abigail Quintana","confirmed",25.5,"1","42","16/03/2023",NA,NA,"08/03/2023","11/03/2023",FALSE,"Statistician","yes",10,2023-03-26
+"125",179,"Jacqueline Lorenzano Rodriguez","suspected",NA,"1","21","09/03/2023",NA,NA,"05/03/2023","07/03/2023",FALSE,"Garment/textile technologist","No",21,2023-03-30
+"126",180,"Safar al-Saber","confirmed",24.9,"0","16","07/03/2023",NA,NA,"02/03/2023","08/03/2023",FALSE,"Clinical biochemist","No",5,2023-03-12
+"127",181,"Julie Kim","confirmed",21.8,"1","79","12/03/2023",NA,NA,"04/03/2023","06/03/2023",FALSE,"Social worker","No",15,2023-03-27
+"128",182,"Chager Villano","confirmed",27,"0","36","03/03/2023",NA,NA,"05/03/2023","07/03/2023",FALSE,"Fish farm manager","No",9,2023-03-12
+"129",183,"Paris Steward","probable",NA,"1","46","06/03/2023",NA,NA,"01/03/2023","04/03/2023",FALSE,"General practice doctor","No",19,2023-03-25
+"130",184,"Nicaela Schumacher","probable",NA,"1","19","28/03/2023",NA,NA,"30/03/2023","02/04/2023",FALSE,"Ceramics designer","No",10,2023-04-07
+"131",185,"Armond Lowe","suspected",NA,"0","52","27/03/2023",NA,NA,"24/03/2023","28/03/2023",FALSE,"Psychologist, sport and exercise","No",12,2023-04-08
+"132",186,"Mufeed el-Ghani","confirmed",23,"0","76","27/03/2023",NA,NA,"22/03/2023","26/03/2023",FALSE,"farmer","yes",8,2023-04-04
+"133",187,"Kaitlyn Holloway","suspected",NA,"1","12","04/20/03",NA,NA,"31/03/2023","04/04/2023",FALSE,"Printmaker","yes",9,2023-04-12
+"134",188,"Zaahir el-Salik","confirmed",27.6,"0","29","04/20/03",NA,NA,"27/03/2023","02/04/2023",FALSE,"Surgeon","No",5,2023-04-08
+"135",189,"Ontario Neal","confirmed",26.8,"0","50","04/20/02",NA,NA,"03/04/2023","04/04/2023",FALSE,"Architectural technologist","No",6,2023-04-08
+"136",190,"Tuhfa el-Azzi","confirmed",22.3,"1","46","30/03/2023",NA,NA,"26/03/2023","28/03/2023",FALSE,"Doctor, general practice","yes",13,2023-04-12
+"137",191,"Micah Pastorini","confirmed",24.4,"1","24","04/20/07",NA,NA,"27/03/2023","29/03/2023",FALSE,"Metallurgist","No",9,2023-04-16
+"138",192,"Nathan Zavala","confirmed",24.6,"0","31","10/03/2023",NA,NA,"08/03/2023","10/03/2023",FALSE,"Education officer, environmental","No",8,2023-03-18
+"139",193,"Kendra Helmbrecht","confirmed",26.9,"1","3","10/03/2023",NA,NA,"03/03/2023","08/03/2023",FALSE,"Pension scheme manager","No",19,2023-03-29
+"140",194,"Andrea Nunez","probable",NA,"1","86","08/03/2023",NA,NA,"01/03/2023","08/03/2023",FALSE,"Geophysicist/field seismologist","No",28,2023-04-05
+"141",195,"Aziel Skodack","suspected",NA,"0","72","15/03/2023",NA,NA,"05/03/2023","07/03/2023",FALSE,"Office manager","No",16,2023-03-31
+"142",196,"Jordan Wright","confirmed",24.4,"0","29","24/03/2023",NA,NA,"17/03/2023","18/03/2023",FALSE,"Barrister","No",8,2023-04-01
+"143",197,"Anastasia Garcia De La Cruz","probable",NA,"1","3","21/03/2023",NA,NA,"16/03/2023","18/03/2023",FALSE,"Economist","No",12,2023-04-02
+"144",198,"Maranda Tucson","confirmed",28.1,"1","58","23/03/2023",NA,NA,"12/03/2023","17/03/2023",FALSE,"Sub","No",15,2023-04-07
+"145",199,"Kanae Vigil","confirmed",24.9,"1","21","25/03/2023",NA,NA,"17/03/2023","18/03/2023",FALSE,"Trade union research officer","No",8,2023-04-02
+"146",200,"Monica Romero","confirmed",23.3,"1","30","24/03/2023",NA,NA,"19/03/2023","23/03/2023",FALSE,"Ecologist","No",14,2023-04-07
+"147",201,"Haley Gong","confirmed",26.4,"1","81","04/20/01","03/04/2023",NA,"26/03/2023","27/03/2023",FALSE,"Camera operator","No",8,2023-04-09
+"148",202,"Dylan Bennett","confirmed",24.1,"0","54","04/20/08","11/04/2023",NA,"25/03/2023","28/03/2023",FALSE,"Tree surgeon","No",7,2023-04-15
+"149",203,"Waheeba al-Mohammad","suspected",NA,"1","67","31/03/2023","01/04/2023",NA,"26/03/2023","28/03/2023",FALSE,"Psychologist, forensic","No",21,2023-04-21
+"150",204,"Arafaat el-Abdo","confirmed",27.7,"0","22","28/03/2023",NA,NA,"26/03/2023","27/03/2023",FALSE,"Chartered legal executive (England and Wales)","No",22,2023-04-19
+"151",205,"Brandon Wicks","probable",NA,"0","23","04/20/01",NA,NA,"01/04/2023","04/04/2023",FALSE,"Armed forces training and education officer","No",2,2023-04-03
+"152",206,"Ka'Imi Zarcula","confirmed",26,"1","43","04/20/05",NA,NA,"02/04/2023","04/04/2023",FALSE,"Social research officer, government","No",4,2023-04-09
+"153",207,"Immanuel Lancaster","probable",NA,"0","21","19/03/2023",NA,NA,"14/03/2023","18/03/2023",FALSE,"Systems analyst","No",14,2023-04-02
+"154",208,"Cody Aranda","confirmed",24.2,"0","30","17/03/2023",NA,NA,"15/03/2023","19/03/2023",FALSE,"Information systems manager","yes",9,2023-03-26
+"155",209,"Trang Lising","confirmed",23.9,"1","16","18/03/2023",NA,NA,"13/03/2023","16/03/2023",FALSE,"Buyer, retail","yes",9,2023-03-27
+"156",210,"Esperanza Lomeli","confirmed",24.9,"1","57","18/03/2023",NA,NA,"13/03/2023","16/03/2023",FALSE,"Museum/gallery exhibitions officer","No",17,2023-04-04
+"157",211,"Jenifer Elias Santamaria","confirmed",24.3,"1","45","10/03/2023",NA,NA,"09/03/2023","11/03/2023",FALSE,"Health promotion specialist","yes",12,2023-03-22
+"158",212,"Evin Basker","confirmed",25.9,"0","61","15/03/2023",NA,NA,"11/03/2023","13/03/2023",FALSE,"Audiological scientist","No",17,2023-04-01
+"159",213,"Ashley Padilla","confirmed",24.4,"1","71","14/03/2023",NA,NA,"14/03/2023","15/03/2023",FALSE,"Minerals surveyor","No",9,2023-03-23
+"160",214,"Kathryn Tin","confirmed",28,"1","19","18/03/2023",NA,NA,"15/03/2023","18/03/2023",FALSE,"Press sub","No",8,2023-03-26
+"161",215,"Heroki Morales","confirmed",23.8,"0","81","17/03/2023",NA,NA,"10/03/2023","13/03/2023",FALSE,"Community arts worker","No",7,2023-03-24
+"162",216,"Tony Palandeng","suspected",NA,"0","25","10/03/2023",NA,NA,"06/03/2023","08/03/2023",FALSE,"Marine scientist","No",41,2023-04-20
+"163",217,"Lincy Martinez","confirmed",26.4,"1","42","11/03/2023",NA,NA,"03/03/2023","07/03/2023",FALSE,"Economist","yes",13,2023-03-24
+"164",218,"William Masterson","confirmed",25.9,"0","45","04/20/06",NA,NA,"27/03/2023","31/03/2023",FALSE,"Air traffic controller","No",3,2023-04-09
+"165",219,"Thao Zheng","confirmed",28.3,"1","64","04/20/02",NA,NA,"29/03/2023","31/03/2023",FALSE,"farmer","yes",27,2023-04-29
+"166",220,"Katerina Shepherd","confirmed",23.7,"1","23","04/20/08",NA,NA,"01/04/2023","04/04/2023",FALSE,"Publishing rights manager","No",9,2023-04-17
+"167",221,"Jared Sanchez","probable",NA,"0","24","04/20/06",NA,NA,"05/04/2023","05/04/2023",FALSE,"Agricultural consultant","No",7,2023-04-13
+"168",222,"Sean Bayarmagnai","confirmed",21.7,"0","37","04/20/05",NA,NA,"03/04/2023","07/04/2023",FALSE,"Primary school teacher","yes",9,2023-04-14
+"169",223,"Jungkar Sherpa","confirmed",22,"0","29","31/03/2023",NA,NA,"30/03/2023","03/04/2023",FALSE,"Television/film/video producer","No",10,2023-04-10
+"170",224,"Rikia Deloach","probable",NA,"1","9","04/20/07",NA,NA,"29/03/2023","31/03/2023",FALSE,"Clinical embryologist","No",7,2023-04-14
+"171",225,"Christopher Taylor","probable",NA,"0","60","04/20/14",NA,NA,"05/04/2023","11/04/2023",FALSE,"Oncologist","No",10,2023-04-24
+"172",226,"Javan Stepisnik-Brown","confirmed",22.3,"0","11","04/20/10",NA,NA,"07/04/2023","09/04/2023",FALSE,"Pension scheme manager","No",9,2023-04-19
+"173",227,"Jamie Amin","probable",NA,"1","31","16/03/2023",NA,NA,"12/03/2023","13/03/2023",FALSE,"Geophysical data processor","No",5,2023-03-21
+"174",228,"Laaiqa el-Firman","confirmed",26.7,"1","61","15/03/2023",NA,NA,"15/03/2023","17/03/2023",FALSE,"Occupational psychologist","No",11,2023-03-26
+"175",229,"Cynthia Lee","confirmed",22,"1","42","13/03/2023",NA,NA,"10/03/2023","12/03/2023",FALSE,"Cartographer","No",11,2023-03-24
+"176",230,"Jazmyn Suazo Reyes","confirmed",23.5,"1","21","14/03/2023",NA,NA,"06/03/2023","12/03/2023",FALSE,"Public relations officer","yes",13,2023-03-27
+"177",231,"Leonardo Fumagalli","suspected",NA,"0","85","14/03/2023",NA,NA,"06/03/2023","11/03/2023",FALSE,"Warden/ranger","No",18,2023-04-01
+"178",232,"Kyrisha Coleman","confirmed",22.9,"1","14","11/03/2023","12/03/2023","01/04/2023","05/03/2023","09/03/2023",FALSE,"Doctor, general practice","No",12,2023-03-23
+"179",233,"Rion Haywood","confirmed",22.4,"0","83","11/03/2023","17/03/2023",NA,"08/03/2023","11/03/2023",FALSE,"Brewing technologist","No",27,2023-04-07
+"180",234,"Tasia Sandoval","confirmed",23.3,"1","6","24/03/2023",NA,NA,"19/03/2023","21/03/2023",FALSE,"Materials engineer","yes",25,2023-04-18
+"181",235,"Leroy Bellah","probable",NA,"0","38","29/03/2023",NA,NA,"24/03/2023","26/03/2023",FALSE,"Media buyer","No",7,2023-04-05
+"182",236,"Naaifa al-Sadri","confirmed",26.9,"1","67","04/20/01",NA,NA,"26/03/2023","29/03/2023",FALSE,"Chartered public finance accountant","No",9,2023-04-10
+"183",237,"Nicholas Stenman-Fernstrom","probable",NA,"0","30","04/20/01",NA,NA,"26/03/2023","27/03/2023",FALSE,"Plant breeder/geneticist","No",6,2023-04-07
+"184",238,"Pratik Solberg","suspected",NA,"0","36","26/03/2023",NA,NA,"25/03/2023","28/03/2023",FALSE,"Surveyor, planning and development","No",6,2023-04-01
+"185",239,"Kaelynn Jimmerson Stinson","suspected",NA,"1","76","27/03/2023",NA,NA,"27/03/2023","28/03/2023",FALSE,"Secretary/administrator","No",25,2023-04-21
+"186",240,"Sham'a al-Bari","confirmed",25.8,"1","24","27/03/2023",NA,NA,"27/03/2023","30/03/2023",FALSE,"Actuary","No",9,2023-04-05
+"187",241,"Dylan Eshima","probable",NA,"0","69","29/03/2023",NA,NA,"28/03/2023","28/03/2023",FALSE,"Translator","No",16,2023-04-14
+"188",242,"Alyssa Finch","confirmed",25.2,"1","54","04/20/09",NA,NA,"06/04/2023","10/04/2023",FALSE,"Petroleum engineer","No",7,2023-04-16
+"189",243,"Jason Ko","confirmed",25.7,"0","30","04/20/07",NA,NA,"27/03/2023","30/03/2023",FALSE,"Agricultural engineer","No",5,2023-04-12
+"190",244,"Darius Maldonado","probable",NA,"0","66","04/20/01",NA,NA,"30/03/2023","01/04/2023",FALSE,"Civil Service fast streamer","No",4,2023-04-05
+"191",245,"Brianna Valencia","probable",NA,"1","38","04/20/09",NA,NA,"02/04/2023","05/04/2023",FALSE,"Warden/ranger","No",7,2023-04-16
+"192",246,"Wadee'a el-Musa","suspected",NA,"1","24","04/20/09",NA,NA,"31/03/2023","07/04/2023",FALSE,"Sound technician, broadcasting/film/video","No",6,2023-04-15
+"193",247,"Tmorchi Huynh","probable",NA,"0","25","04/20/09",NA,NA,"05/04/2023","08/04/2023",FALSE,"farmer","yes",5,2023-04-14
+"194",248,"Mark Wiley","probable",NA,"0","75","28/03/2023",NA,NA,"24/03/2023","25/03/2023",FALSE,"Games developer","No",15,2023-04-12
+"195",249,"Bryan Medina","suspected",NA,"0","8","26/03/2023",NA,NA,"21/03/2023","24/03/2023",FALSE,"Hydrogeologist","No",31,2023-04-26
+"196",250,"Halley Topper","suspected",NA,"1","83","04/20/09",NA,NA,"21/03/2023","24/03/2023",FALSE,"Surveyor, building","No",8,2023-04-17
+"197",251,"Vincent Alire","confirmed",26.4,"0","14","24/03/2023",NA,NA,"12/03/2023","18/03/2023",FALSE,"Advertising account executive","yes",15,2023-04-08
+"198",252,"Noah Thinnes","suspected",NA,"0","32","19/03/2023",NA,NA,"18/03/2023","18/03/2023",FALSE,"farmer","yes",7,2023-03-26
+"199",253,"Kyleisha Thompson","suspected",NA,"1","30","24/03/2023",NA,NA,"15/03/2023","20/03/2023",FALSE,"Engineer, civil (contracting)","No",6,2023-03-30
+"200",254,"Ezmeralda Cruz","confirmed",20.3,"1","16","14/03/2023",NA,NA,"09/03/2023","12/03/2023",FALSE,"Textile designer","yes",27,2023-04-10
+"201",255,"Wadha el-Yacoub","suspected",NA,"1","44","12/03/2023",NA,NA,"07/03/2023","11/03/2023",FALSE,"Accounting technician","yes",16,2023-03-28
+"202",256,"Alexander Abell-Payne","suspected",NA,"0","69","17/03/2023",NA,NA,"13/03/2023","17/03/2023",FALSE,"IT trainer","No",11,2023-03-28
+"203",257,"Richard Garcia","confirmed",27.5,"0","48","23/03/2023",NA,NA,"20/03/2023","21/03/2023",FALSE,"Forensic scientist","No",4,2023-03-27
+"204",258,"Nakiya Harvey","confirmed",26.7,"1","43","23/03/2023",NA,NA,"13/03/2023","19/03/2023",FALSE,"Manufacturing engineer","No",14,2023-04-06
+"205",259,"Shante Sanchez","suspected",NA,"1","48","24/03/2023",NA,NA,"18/03/2023","19/03/2023",FALSE,"Exercise physiologist","No",15,2023-04-08
+"206",260,"Michelle Ghale","probable",NA,"1","52","14/03/2023",NA,NA,"12/03/2023","14/03/2023",FALSE,"Scientist, research (maths)","No",8,2023-03-22
+"207",261,"Alexandria Choi","confirmed",27.3,"1","87","19/03/2023",NA,NA,"13/03/2023","14/03/2023",FALSE,"Training and development officer","No",14,2023-04-02
+"208",262,"Kiley Ouellette","suspected",NA,"1","49","17/03/2023",NA,NA,"11/03/2023","12/03/2023",FALSE,"Production designer, theatre/television/film","No",23,2023-04-09
+"209",264,"Allison Grennan","confirmed",25.8,"1","84","04/20/04",NA,"22/04/2023","31/03/2023","05/04/2023",FALSE,"Print production planner","No",13,2023-04-17
+"210",265,"Breston Chaffin","probable",NA,"0","4","04/20/07",NA,NA,"31/03/2023","04/04/2023",FALSE,"Legal executive","No",16,2023-04-23
+"211",266,"Ivin Kniesche","confirmed",24.3,"0","34","04/20/12",NA,"03/05/2023","07/04/2023","08/04/2023",FALSE,"Aeronautical engineer","No",7,2023-04-19
+"212",267,"Talaal al-Saad","probable",NA,"0","16","04/20/14",NA,NA,"06/04/2023","08/04/2023",FALSE,"Hydrologist","No",6,2023-04-20
+"213",268,"Justin Murphy","confirmed",24.2,"0","50","04/20/06",NA,NA,"03/04/2023","08/04/2023",FALSE,"Engineer, communications","No",8,2023-04-14
+"214",269,"Kenith Maldonado","probable",NA,"0","50","04/20/09",NA,NA,"01/04/2023","08/04/2023",FALSE,"Fine artist","No",12,2023-04-21
+"215",270,"Andrea Boimbo","confirmed",23.3,"1","27","04/20/11",NA,NA,"02/04/2023","06/04/2023",FALSE,"Hydrologist","No",8,2023-04-19
+"216",271,"Andrew Welty","confirmed",25.4,"0","15","04/20/08",NA,NA,"01/04/2023","06/04/2023",FALSE,"Pharmacologist","No",3,2023-04-11
+"217",272,"Nasstaja Zeigler","confirmed",25.9,"1","74","04/20/04",NA,NA,"06/04/2023","07/04/2023",FALSE,"Administrator, education","No",8,2023-04-12
+"218",273,"Logan Ragona","probable",NA,"0","70","04/20/04",NA,NA,"01/04/2023","02/04/2023",FALSE,"Theatre stage manager","No",11,2023-04-15
+"219",274,"Lara Macdougall","confirmed",27.1,"1","15","04/20/03",NA,NA,"03/04/2023","05/04/2023",FALSE,"Research officer, political party","No",11,2023-04-14
+"220",275,"Lauren Petersen","probable",NA,"1","32","19/03/2023",NA,NA,"14/03/2023","18/03/2023",FALSE,"Pharmacologist","No",12,2023-03-31
+"221",276,"Jamal Michael","suspected",NA,"0","45","14/03/2023","14/03/2023",NA,"11/03/2023","13/03/2023",FALSE,"Engineer, civil (consulting)","yes",24,2023-04-07
+"222",277,"Markangelo Aviado II","confirmed",22.9,"0","48","14/03/2023",NA,NA,"08/03/2023","12/03/2023",FALSE,"Dancer","No",14,2023-03-28
+"223",278,"Jenny Lenh","suspected",NA,"1","42","14/03/2023",NA,NA,"13/03/2023","16/03/2023",FALSE,"Architectural technologist","yes",10,2023-03-24
+"224",279,"Kaytlyn Lazzaro","confirmed",25.9,"1","48","14/03/2023","17/03/2023",NA,"13/03/2023","15/03/2023",FALSE,"Meteorologist","No",22,2023-04-05
+"225",280,"Caden Mcduffee","confirmed",25.4,"0","79","27/03/2023",NA,NA,"24/03/2023","25/03/2023",FALSE,"Chemical engineer","yes",20,2023-04-16
+"226",281,"Kami Ingle","confirmed",24.5,"1","68","25/03/2023",NA,NA,"24/03/2023","27/03/2023",FALSE,"Administrator, arts","yes",23,2023-04-17
+"227",282,"Toni Gomez","suspected",NA,"1","44","04/20/03",NA,NA,"30/03/2023","31/03/2023",FALSE,"Chartered legal executive (England and Wales)","No",7,2023-04-10
+"228",283,"Arianna Cornish","probable",NA,"1","77","04/20/03",NA,NA,"29/03/2023","04/04/2023",FALSE,"Telecommunications researcher","No",7,2023-04-10
+"229",284,"Haamid el-Sham","confirmed",20.9,"0","56","04/20/03",NA,NA,"02/04/2023","03/04/2023",FALSE,"Chiropractor","No",4,2023-04-07
+"230",285,"Marcus Miller","confirmed",25.5,"0","76","04/20/04",NA,NA,"02/04/2023","04/04/2023",FALSE,"Retail buyer","No",6,2023-04-10
+"231",286,"Hung Pham","confirmed",23,"0","32","29/03/2023",NA,NA,"22/03/2023","27/03/2023",FALSE,"Lobbyist","yes",20,2023-04-18
+"232",287,"Thien Pfannenstiel","suspected",NA,"0","23","31/03/2023",NA,NA,"27/03/2023","29/03/2023",FALSE,"Patent attorney","No",21,2023-04-21
+"233",288,"Sonny Valenzuela","suspected",NA,"0","20","28/03/2023",NA,NA,"25/03/2023","29/03/2023",FALSE,"Restaurant manager","No",11,2023-04-08
+"234",289,"Wesley Frakes","confirmed",26.2,"0","82","04/20/05",NA,NA,"23/03/2023","30/03/2023",FALSE,"Video editor","No",6,2023-04-11
+"235",290,"Kai Burch","suspected",NA,"0","13","04/20/01",NA,NA,"24/03/2023","28/03/2023",FALSE,"Advertising copywriter","yes",3,2023-04-04
+"236",291,"Michael Lau","probable",NA,"0","20","29/03/2023",NA,NA,"27/03/2023","01/04/2023",FALSE,"Wellsite geologist","No",12,2023-04-10
+"237",292,"Garrett Franklin","suspected",NA,"0","25","31/03/2023",NA,NA,"28/03/2023","30/03/2023",FALSE,"Community arts worker","No",19,2023-04-19
+"238",293,"Rajaa el-Pashia","probable",NA,"0","79","04/20/02",NA,NA,"31/03/2023","31/03/2023",FALSE,"Engineer, control and instrumentation","No",12,2023-04-14
+"239",294,"Aayid al-Zafar","probable",NA,"0","49","31/03/2023",NA,NA,"28/03/2023","01/04/2023",FALSE,"Youth worker","No",6,2023-04-06
+"240",295,"Ghaazi el-Noorani","confirmed",25.1,"0","43","04/20/02",NA,NA,"31/03/2023","01/04/2023",FALSE,"Radio broadcast assistant","No",5,2023-04-07
+"241",296,"Eric Ponce","suspected",NA,"0","21","30/03/2023",NA,NA,"26/03/2023","29/03/2023",FALSE,"Graphic designer","No",14,2023-04-13
+"242",297,"Jillian Travis","suspected",NA,"1","54","04/20/05",NA,NA,"02/04/2023","04/04/2023",FALSE,"Occupational psychologist","yes",2,2023-04-07
+"243",298,"Christian Nguyen","confirmed",28.8,"0","16","04/20/20","24/04/2023",NA,"09/04/2023","12/04/2023",FALSE,"Engineer, building services","No",4,2023-04-24
+"244",299,"Randy Reynolds","confirmed",24.7,"0","1","04/20/15",NA,NA,"10/04/2023","11/04/2023",FALSE,"Health promotion specialist","No",1,2023-04-16
+"245",300,"Glen Anderson","probable",NA,"0","86","30/03/2023",NA,"10/04/2023","05/04/2023","05/04/2023",FALSE,"Logistics and distribution manager","No",14,2023-04-13
+"246",301,"Smokey Dalton","confirmed",25.5,"0","87","04/20/01",NA,NA,"28/03/2023","29/03/2023",FALSE,"Health promotion specialist","No",5,2023-04-06
+"247",302,"Otoniel Diaz","probable",NA,"0","77","04/20/04",NA,NA,"29/03/2023","29/03/2023",FALSE,"Scientist, forensic","No",10,2023-04-14
+"248",303,"Robert Henderson","suspected",NA,"0","39","04/20/02",NA,NA,"26/03/2023","30/03/2023",FALSE,"Lobbyist","No",15,2023-04-17
+"249",304,"Trevor Wilson","suspected",NA,"0","50","30/03/2023",NA,NA,"28/03/2023","30/03/2023",FALSE,"Licensed conveyancer","No",11,2023-04-10
+"250",305,"Toby Stone","probable",NA,"0","44","29/03/2023",NA,NA,"28/03/2023","31/03/2023",FALSE,"Charity fundraiser","No",18,2023-04-16
+"251",306,"Carla Chavez Herrera","probable",NA,"1","70","04/20/14",NA,NA,"05/04/2023","10/04/2023",FALSE,"Designer, furniture","No",9,2023-04-23
+"252",308,"Nallely Vasquez","confirmed",26.2,"1","19","04/20/11",NA,NA,"08/04/2023","12/04/2023",FALSE,"Restaurant manager","No",8,2023-04-19
+"253",309,"Adrian Walker","probable",NA,"0","4","04/20/14",NA,NA,"09/04/2023","11/04/2023",FALSE,"Medical physicist","No",3,2023-04-17
+"254",310,"Alexander Serna","probable",NA,"0","33","04/20/04",NA,NA,"22/03/2023","26/03/2023",FALSE,"farmer","yes",4,2023-04-08
+"255",311,"Edgar Palmerin","confirmed",26.2,"0","56","29/03/2023",NA,NA,"24/03/2023","27/03/2023",FALSE,"Soil scientist","No",24,2023-04-22
+"256",312,"Ashleigh Ringsby","probable",NA,"1","55","18/03/2023",NA,NA,"07/03/2023","13/03/2023",FALSE,"Environmental manager","yes",21,2023-04-08
+"257",313,"Katherine Poghosyan","confirmed",25.6,"1","20","27/03/2023",NA,NA,"21/03/2023","27/03/2023",FALSE,"Therapist, music","No",25,2023-04-21
+"258",314,"Chelsa Williams","confirmed",24.4,"1","49","27/03/2023",NA,NA,"25/03/2023","27/03/2023",FALSE,"Ranger/warden","No",14,2023-04-10
+"259",315,"Nabeeha al-Sultana","confirmed",27.2,"1","75","26/03/2023",NA,NA,"25/03/2023","28/03/2023",FALSE,"Futures trader","yes",14,2023-04-09
+"260",316,"Lawrence Gulley","confirmed",23.9,"0","37","28/03/2023",NA,NA,"17/03/2023","23/03/2023",FALSE,"Water quality scientist","No",13,2023-04-10
+"261",317,"Jesse Stufflebean","confirmed",25.3,"0","26","27/03/2023","03/04/2023",NA,"25/03/2023","26/03/2023",FALSE,"Social research officer, government","No",6,2023-04-02
+"262",318,"Ryan Quint","suspected",NA,"0","83","27/03/2023",NA,NA,"23/03/2023","27/03/2023",FALSE,"Museum/gallery exhibitions officer","No",23,2023-04-19
+"263",319,"Hayden Horn","confirmed",27.4,"0","55","28/03/2023","30/03/2023",NA,"27/03/2023","30/03/2023",FALSE,"Associate Professor","No",13,2023-04-10
+"264",320,"Giles Coby","confirmed",21.4,"0","37","27/03/2023",NA,NA,"20/03/2023","21/03/2023",FALSE,"Radiation protection practitioner","yes",16,2023-04-12
+"265",321,"Jennifer Dawson","confirmed",24.9,"1","57","24/03/2023",NA,NA,"17/03/2023","18/03/2023",FALSE,"Teacher, secondary school","No",18,2023-04-11
+"266",322,"Dominic Ramirez","confirmed",26.3,"0","43","04/20/13",NA,NA,"05/04/2023","07/04/2023",FALSE,"Civil engineer, consulting","No",13,2023-04-26
+"267",323,"Caleb Jones","probable",NA,"0","1","04/20/12","15/04/2023",NA,"06/04/2023","10/04/2023",FALSE,"Customer service manager","No",10,2023-04-22
+"268",324,"Dyontae Lulu","probable",NA,"0","80","04/20/08",NA,"26/04/2023","08/04/2023","09/04/2023",FALSE,"Engineer, civil (consulting)","No",10,2023-04-18
+"269",325,"Allicia Feseha","confirmed",22.7,"1","5","04/20/17",NA,NA,"08/04/2023","12/04/2023",FALSE,"Tree surgeon","No",4,2023-04-21
+"270",326,"Luis Avalos Rivera","confirmed",29.4,"0","86","04/20/16","19/04/2023","02/05/2023","14/04/2023","15/04/2023",FALSE,"Marine scientist","No",10,2023-04-26
+"271",327,"Emily Davis","confirmed",25.7,"1","23","04/20/06","15/05/2023",NA,"02/04/2023","04/04/2023",FALSE,"Occupational hygienist","No",12,2023-04-18
+"272",328,"Jason Ballou","confirmed",24.1,"0","10","04/20/10",NA,NA,"02/04/2023","05/04/2023",FALSE,"Industrial buyer","No",5,2023-04-15
+"273",329,"Shania White Bear","probable",NA,"1","79","04/20/08",NA,NA,"01/04/2023","05/04/2023",FALSE,"Designer, interior/spatial","No",7,2023-04-15
+"274",330,"Layaali el-Sayed","suspected",NA,"1","81","04/20/09",NA,NA,"04/04/2023","08/04/2023",FALSE,"Merchant navy officer","No",3,2023-04-12
+"275",331,"Steven Edsall","suspected",NA,"0","79","04/20/06",NA,NA,"01/04/2023","04/04/2023",FALSE,"Mudlogger","No",15,2023-04-21
+"276",332,"Mikale Abraha","confirmed",24.7,"0","28","23/03/2023",NA,NA,"15/03/2023","20/03/2023",FALSE,"Nurse, children's","No",4,2023-03-27
+"277",334,"Julia Jewell","confirmed",20.5,"1","40","18/03/2023",NA,NA,"15/03/2023","19/03/2023",FALSE,"Learning mentor","No",6,2023-03-24
+"278",335,"Karen Navarro","confirmed",27,"1","14","15/03/2023",NA,NA,"14/03/2023","16/03/2023",FALSE,"Conservator, furniture","No",18,2023-04-02
+"279",336,"Erin Miller","confirmed",25.2,"1","6","16/03/2023",NA,NA,"16/03/2023","18/03/2023",FALSE,"Designer, television/film set","No",8,2023-03-24
+"280",337,"Melissa Weaver","suspected",NA,"1","80","27/03/2023",NA,NA,"24/03/2023","29/03/2023",FALSE,"farmer","yes",13,2023-04-09
+"281",338,"Julia Aldawoodi","confirmed",26.6,"1","3","28/03/2023","01/04/2023","15/04/2023","19/03/2023","25/03/2023",FALSE,"Geochemist","No",10,2023-04-07
+"282",339,"Brian Sergeant","suspected",NA,"0","12","04/20/05",NA,NA,"01/04/2023","07/04/2023",FALSE,"Consulting civil engineer","No",7,2023-04-12
+"283",340,"Mandeep Hermawan","probable",NA,"0","82","04/20/06",NA,NA,"07/04/2023","09/04/2023",FALSE,"Fisheries officer","No",17,2023-04-23
+"284",341,"Danielle Hernandez Jr","suspected",NA,"1","44","04/20/06",NA,NA,"02/04/2023","08/04/2023",FALSE,"Pharmacist, community","No",9,2023-04-15
+"285",342,"Anamichel Hsu","confirmed",25.5,"1","15","04/20/13",NA,NA,"05/04/2023","11/04/2023",FALSE,"Advice worker","No",12,2023-04-25
+"286",343,"Nathaniel Lansing","probable",NA,"0","81","04/20/11",NA,NA,"04/04/2023","07/04/2023",FALSE,"Multimedia programmer","No",7,2023-04-18
+"287",344,"Kanani Morton","probable",NA,"1","85","04/20/02",NA,NA,"31/03/2023","03/04/2023",FALSE,"Public house manager","No",6,2023-04-08
+"288",345,"Husni al-Ahmed","probable",NA,"0","31","04/20/04",NA,NA,"31/03/2023","04/04/2023",FALSE,"farmer","yes",5,2023-04-09
+"289",346,"Molly Hoglund","confirmed",23.7,"1","30","04/20/10",NA,NA,"31/03/2023","02/04/2023",FALSE,"IT technical support officer","No",4,2023-04-14
+"290",348,"Zachary Lakey","probable",NA,"0","76","04/20/03",NA,NA,"28/03/2023","03/04/2023",FALSE,"Manufacturing engineer","No",7,2023-04-10
+"291",349,"Alysha Rossow","confirmed",27.6,"1","54","04/20/17",NA,NA,"04/04/2023","07/04/2023",FALSE,"Secretary, company","No",6,2023-04-23
+"292",350,"Stephanie Ruiz","confirmed",24.8,"1","19","04/20/05",NA,NA,"01/04/2023","02/04/2023",FALSE,"Industrial/product designer","yes",12,2023-04-17
+"293",351,"Hamda el-Rashed","confirmed",21.9,"1","74","04/20/01",NA,"19/04/2023","01/04/2023","03/04/2023",FALSE,"Designer, furniture","No",10,2023-04-11
+"294",352,"Kush Nishida","suspected",NA,"0","51","04/20/02",NA,NA,"28/03/2023","31/03/2023",FALSE,"Editor, commissioning","yes",4,2023-04-06
+"295",353,"Qais al-Akhter","confirmed",21.9,"0","39","04/20/03",NA,NA,"05/04/2023","08/04/2023",FALSE,"Ship broker","No",10,2023-04-13
+"296",354,"Khulood al-Mohammadi","probable",NA,"1","29","04/20/02",NA,NA,"29/03/2023","01/04/2023",FALSE,"Magazine features editor","No",3,2023-04-05
+"297",355,"Aseel al-Quadri","confirmed",23.8,"0","87","04/20/04","20/05/2023","26/04/2023","02/04/2023","04/04/2023",FALSE,"Manufacturing systems engineer","yes",2,2023-04-06
+"298",356,"Mireya Vigil","confirmed",25.1,"1","22","04/20/07",NA,NA,"06/04/2023","08/04/2023",FALSE,"Armed forces technical officer","yes",5,2023-04-12
+"299",358,"Marissa Johnson","confirmed",26.8,"1","73","04/20/02",NA,NA,"27/03/2023","02/04/2023",FALSE,"Special effects artist","No",3,2023-04-05
+"300",359,"Megan Nguyen","suspected",NA,"1","38","04/20/05",NA,NA,"02/04/2023","06/04/2023",FALSE,"farmer","yes",14,2023-04-19
+"301",360,"Veronica Mcelroy","confirmed",24.2,"1","4","04/20/04",NA,NA,"29/03/2023","30/03/2023",FALSE,"Designer, multimedia","No",2,2023-04-06
+"302",361,"Brianna Sykes","confirmed",23.2,"1","69","04/20/15","28/04/2023","26/04/2023","06/04/2023","09/04/2023",FALSE,"Archaeologist","No",7,2023-04-22
+"303",362,"Justin Holiday","confirmed",27,"0","66","04/20/06",NA,NA,"07/04/2023","09/04/2023",FALSE,"Database administrator","No",6,2023-04-12
+"304",363,"Hailey Bigthumb","confirmed",22.6,"1","26","04/20/08",NA,NA,"28/03/2023","30/03/2023",FALSE,"Jewellery designer","yes",13,2023-04-21
+"305",364,"Selina Field","probable",NA,"1","23","04/20/01",NA,NA,"27/03/2023","29/03/2023",FALSE,"Solicitor, Scotland","No",4,2023-04-05
+"306",365,"Macennia Quenzer","confirmed",27.8,"1","88","04/20/02",NA,"23/04/2023","01/04/2023","01/04/2023",FALSE,"Actuary","yes",11,2023-04-13
+"307",366,"Anna Ungvary","probable",NA,"1","67","31/03/2023",NA,NA,"05/04/2023","07/04/2023",FALSE,"Buyer, industrial","No",6,2023-04-06
+"308",367,"Tahleela el-Arif","confirmed",24.4,"1","76","30/03/2023",NA,NA,"29/03/2023","31/03/2023",FALSE,"Geophysicist/field seismologist","yes",10,2023-04-09
+"309",369,"Kyanna Frazier","confirmed",27,"1","90","04/20/15",NA,NA,"13/04/2023","16/04/2023",FALSE,"Merchandiser, retail","No",9,2023-04-24
+"310",370,"Ronnie Salat","confirmed",26.2,"0","16","04/20/16",NA,NA,"14/04/2023","18/04/2023",FALSE,"Administrator, sports","No",10,2023-04-26
+"311",372,"Abdul Quddoos el-Noor","confirmed",27,"0","30","04/20/17","18/04/2023",NA,"10/04/2023","14/04/2023",FALSE,"Bookseller","No",8,2023-04-25
+"312",373,"Robert Shihadeh","probable",NA,"0","89","04/20/14",NA,NA,"15/04/2023","17/04/2023",FALSE,"Ecologist","No",1,2023-04-15
+"313",374,"Gabriel Carter","confirmed",29.2,"0","78","04/20/13",NA,NA,"09/04/2023","10/04/2023",FALSE,"Physiotherapist","No",8,2023-04-21
+"314",375,"Daniel Naylor","confirmed",24.3,"0","42","04/20/20",NA,NA,"22/04/2023","25/04/2023",FALSE,"Museum education officer","No",8,2023-04-28
+"315",376,"Miska el-Dada","suspected",NA,"1","40","04/20/24",NA,NA,"14/04/2023","19/04/2023",FALSE,"Education officer, community","No",6,2023-04-30
+"316",377,"Nhat Phuong Porage","confirmed",26.7,"1","15","04/20/23",NA,NA,"16/04/2023","18/04/2023",FALSE,"Dramatherapist","No",4,2023-04-27
+"317",378,"Faadi al-Minhas","suspected",NA,"0","48","04/20/12",NA,NA,"07/04/2023","11/04/2023",FALSE,"Tourism officer","No",2,2023-04-14
+"318",380,"Lio Huang","confirmed",24,"1","27","24/03/2023",NA,NA,"18/03/2023","21/03/2023",FALSE,"Doctor, general practice","No",12,2023-04-05
+"319",381,"Raabiya al-Shahidi","suspected",NA,"1","52","19/03/2023",NA,NA,"20/03/2023","20/03/2023",FALSE,"Radio producer","No",10,2023-03-29
+"320",382,"Richard Vincenty","probable",NA,"0","57","26/03/2023",NA,NA,"14/03/2023","17/03/2023",FALSE,"Surveyor, building","No",5,2023-03-31
+"321",383,"Kiara Tripplett","confirmed",25.8,"1","8","21/03/2023",NA,NA,"17/03/2023","19/03/2023",FALSE,"Leisure centre manager","yes",16,2023-04-06
+"322",384,"Amber Sablan","suspected",NA,"1","79","31/03/2023",NA,NA,"25/03/2023","30/03/2023",FALSE,"Gaffer","No",26,2023-04-26
+"323",385,"Susana Weaver","confirmed",26.4,"1","29","04/20/02",NA,NA,"29/03/2023","31/03/2023",FALSE,"Geologist, wellsite","No",5,2023-04-07
+"324",386,"Sha'Dae Sayers","confirmed",25.6,"1","28","04/20/13",NA,NA,"05/04/2023","12/04/2023",FALSE,"farmer","yes",8,2023-04-21
+"325",387,"Kabeera el-Abdi","suspected",NA,"1","78","04/20/11",NA,NA,"03/04/2023","07/04/2023",FALSE,"Engineer, biomedical","No",7,2023-04-18
+"326",388,"Asia Sanford","confirmed",25.8,"1","<5","04/20/10",NA,NA,"01/04/2023","07/04/2023",FALSE,"Sports coach","yes",6,2023-04-16
+"327",389,"Sergio Garza","confirmed",25.6,"0","34","04/20/09",NA,NA,"06/04/2023","11/04/2023",FALSE,"Scientist, physiological","No",3,2023-04-12
+"328",390,"Ribbon Asuega","confirmed",22.5,"1","22","04/20/09",NA,NA,"07/04/2023","07/04/2023",FALSE,"Scientist, marine","No",3,2023-04-12
+"329",391,"Randa Rivera","confirmed",24.6,"1","13","04/20/06",NA,NA,"03/04/2023","07/04/2023",FALSE,"Data processing manager","No",8,2023-04-14
+"330",392,"Lanae Barron","confirmed",24.6,"1","42","04/20/07",NA,NA,"04/04/2023","07/04/2023",FALSE,"Archivist","No",11,2023-04-18
+"331",393,"Kyle Schwab","probable",NA,"1","19","04/20/06",NA,NA,"28/03/2023","01/04/2023",FALSE,"Sales executive","No",10,2023-04-16
+"332",394,"Yuna Tanaka","confirmed",24.7,"1","38","04/20/03",NA,NA,"04/04/2023","04/04/2023",FALSE,"Surveyor, minerals","No",5,2023-04-08
+"333",395,"Nicole Hutches","probable",NA,"1","37","04/20/07",NA,NA,"08/04/2023","10/04/2023",FALSE,"Engineer, maintenance","No",6,2023-04-13
+"334",396,"Jessica Simmons","confirmed",28.8,"1","30","04/20/12","14/04/2023",NA,"30/03/2023","04/04/2023",FALSE,"Ship broker","No",5,2023-04-17
+"335",397,"Kristopher Abraham","probable",NA,"0","55","04/20/23",NA,NA,"22/04/2023","24/04/2023",FALSE,"Ship broker","No",6,2023-04-29
+"336",398,"Mahdeeya el-Saade","confirmed",27.7,"1","3","04/20/08",NA,"17/04/2023","10/04/2023","12/04/2023",FALSE,"Materials engineer","No",6,2023-04-14
+"337",399,"Kaleel Seals","confirmed",25.8,"0","14","04/20/08",NA,NA,"05/04/2023","11/04/2023",FALSE,"Teacher, music","No",8,2023-04-16
+"338",400,"Hishaam al-Ansari","confirmed",25.4,"0","6","04/20/07",NA,NA,"03/04/2023","07/04/2023",FALSE,"Soil scientist","No",14,2023-04-21
+"339",401,"Castine Dumon","suspected",NA,"1","32","04/20/05",NA,NA,"31/03/2023","03/04/2023",FALSE,"Teacher, music","No",6,2023-04-11
+"340",402,"Ismaeel el-Malik","probable",NA,"0","86","04/20/06",NA,NA,"02/04/2023","04/04/2023",FALSE,"Animal nutritionist","No",9,2023-04-15
+"341",403,"Davier Robertson","confirmed",28.8,"0","34","04/20/05",NA,NA,"02/04/2023","05/04/2023",FALSE,"Multimedia programmer","No",14,2023-04-19
+"342",404,"Alexander Ogle","confirmed",27.4,"0","78","04/20/05",NA,NA,"31/03/2023","04/04/2023",FALSE,"Art therapist","yes",7,2023-04-12
+"343",405,"Tristin Walker","confirmed",24.8,"0","16","04/20/08",NA,NA,"04/04/2023","06/04/2023",FALSE,"Curator","No",4,2023-04-12
+"344",406,"Tecumseh Kellison","confirmed",26,"0","32","04/20/09",NA,NA,"07/04/2023","10/04/2023",FALSE,"Microbiologist","yes",7,2023-04-16
+"345",407,"Jacob Amiot","confirmed",26.3,"0","55","04/20/09",NA,NA,"03/04/2023","09/04/2023",FALSE,"Youth worker","No",4,2023-04-13
+"346",410,"Nicolas Yao","confirmed",25.9,"0","34","04/20/07",NA,NA,"03/04/2023","04/04/2023",FALSE,"farmer","yes",4,2023-04-11
+"347",411,"Joshua Pal","confirmed",22.5,"0","6","04/20/07",NA,NA,"01/04/2023","04/04/2023",FALSE,"Museum education officer","yes",11,2023-04-18
+"348",412,"Brandon Choudhry","confirmed",24.9,"0","75","04/20/09",NA,NA,"03/04/2023","04/04/2023",FALSE,"Private music teacher","No",3,2023-04-12
+"349",413,"Suhail al-Sadri","confirmed",24.2,"0","56","04/20/05",NA,NA,"04/04/2023","06/04/2023",FALSE,"Restaurant manager, fast food","No",3,2023-04-08
+"350",414,"Sitaara al-Akram","probable",NA,"1","18","04/20/16","10/05/2023",NA,"16/04/2023","18/04/2023",FALSE,"Development worker, community","No",7,2023-04-23
+"351",415,"Somarrey Pham","confirmed",23.9,"1","68","04/20/17",NA,NA,"18/04/2023","19/04/2023",FALSE,"Optometrist","No",7,2023-04-24
+"352",416,"Zameel al-Rahaim","suspected",NA,"0","74","04/20/08",NA,NA,"10/04/2023","12/04/2023",FALSE,"farmer","yes",2,2023-04-10
+"353",417,"Jafer Khalidov","confirmed",24.2,"0","73","04/20/07",NA,NA,"05/04/2023","08/04/2023",FALSE,"Mental health nurse","No",4,2023-04-11
+"354",418,"Joshua Maes","suspected",NA,"0","29","04/20/09",NA,NA,"07/04/2023","10/04/2023",FALSE,"Engineer, maintenance","No",7,2023-04-16
+"355",419,"Luke Viswaroopan","suspected",NA,"0","28","04/20/04",NA,NA,"02/04/2023","05/04/2023",FALSE,"Soil scientist","No",12,2023-04-16
+"356",420,"Brandon Clark","probable",NA,"0","19","04/20/04",NA,NA,"02/04/2023","05/04/2023",FALSE,"Human resources officer","No",8,2023-04-12
+"357",421,"Chaelene Fei","probable",NA,"1","13","04/20/05",NA,NA,"29/03/2023","01/04/2023",FALSE,"Psychotherapist","No",9,2023-04-14
+"358",423,"Sarah Tani","probable",NA,"1","55","31/03/2023",NA,NA,"02/04/2023","04/04/2023",FALSE,"Designer, textile","No",14,2023-04-14
+"359",424,"Daif el-Salam","confirmed",22.6,"0","22","04/20/02",NA,NA,"29/03/2023","02/04/2023",FALSE,"Surveyor, hydrographic","No",4,2023-04-06
+"360",425,"Khaleefa al-Faris","probable",NA,"0","72","04/20/19",NA,NA,"12/04/2023","18/04/2023",FALSE,"Cartographer","No",8,2023-04-27
+"361",429,"Abeth Goldsberry","confirmed",27.3,"1","9","04/20/19",NA,NA,"15/04/2023","18/04/2023",FALSE,"Web designer","No",7,2023-04-26
+"362",430,"Tori Loebis","confirmed",27.2,"1","1","04/20/16",NA,"13/05/2023","11/04/2023","15/04/2023",FALSE,"Estate manager/land agent","No",7,2023-04-23
+"363",431,"Esmeralda Garcia-Zamora","suspected",NA,"1","77","04/20/18",NA,NA,"17/04/2023","18/04/2023",FALSE,"Advertising account executive","No",6,2023-04-24
+"364",433,"Adrian Gonzalez","probable",NA,"0","81","04/20/27","01/05/2023","08/05/2023","15/04/2023","15/04/2023",FALSE,"Therapist, sports","No",3,2023-04-30
+"365",434,"Shay Cain","probable",NA,"0","88","04/20/16",NA,NA,"11/04/2023","13/04/2023",FALSE,"farmer","yes",5,2023-04-21
+"366",436,"Rajeev Gaddipati","probable",NA,"0","62","04/20/22",NA,NA,"18/04/2023","21/04/2023",FALSE,"Psychologist, clinical","No",1,2023-04-23
+"367",440,"Shaahir al-Shams","confirmed",19.9,"0","27","04/20/27",NA,NA,"21/04/2023","25/04/2023",FALSE,"Early years teacher","No",2,2023-04-29
+"368",446,"Tina Rae","confirmed",24.4,"1","64","04/20/19",NA,NA,"13/04/2023","17/04/2023",FALSE,"Scientist, forensic","yes",6,2023-04-25
+"369",447,"Tearney Kohl","confirmed",23.3,"1","82","04/20/14",NA,"22/04/2023","09/04/2023","12/04/2023",FALSE,"Estate agent","No",6,2023-04-20
+"370",448,"Zoe Yrey","probable",NA,"1","2","04/20/14","15/04/2023",NA,"10/04/2023","11/04/2023",FALSE,"Engineer, manufacturing","No",10,2023-04-24
+"371",449,"Jordan Lopez","probable",NA,"0","35","04/20/16","17/04/2023",NA,"09/04/2023","14/04/2023",FALSE,"Operations geologist","yes",14,2023-04-30
+"372",450,"Carmen Molina","confirmed",28.7,"1","79","04/20/13",NA,NA,"06/04/2023","10/04/2023",FALSE,"Set designer","No",4,2023-04-17
+"373",451,"Trevor Cobos","suspected",NA,"0","12","04/20/13",NA,NA,"09/04/2023","11/04/2023",FALSE,"farmer","yes",12,2023-04-25
+"374",452,"Pamela Santio","suspected",NA,"1","83","04/20/13",NA,NA,"09/04/2023","11/04/2023",FALSE,"Radiation protection practitioner","No",4,2023-04-17
+"375",453,"Deborah Flores Ortega","probable",NA,"1","28","04/20/09",NA,NA,"08/04/2023","09/04/2023",FALSE,"Proofreader","No",7,2023-04-16
+"376",454,"Cassidy Mcgovern","suspected",NA,"1","22","04/20/12",NA,NA,"08/04/2023","10/04/2023",FALSE,"Newspaper journalist","No",9,2023-04-21
+"377",455,"Ismael Rivera-Garfio","probable",NA,"0","48","04/20/05",NA,NA,"02/04/2023","07/04/2023",FALSE,"Seismic interpreter","No",7,2023-04-12
+"378",456,"Lynsie Thomas","suspected",NA,"1","63","04/20/16",NA,"27/04/2023","06/04/2023","11/04/2023",FALSE,"Architectural technologist","No",10,2023-04-26
+"379",457,"Ayala Wing","confirmed",21.3,"1","17","04/20/11",NA,NA,"09/04/2023","12/04/2023",FALSE,"Exhibition designer","No",9,2023-04-20
+"380",458,"John Bartusiak","suspected",NA,"0","65","04/20/10",NA,NA,"03/04/2023","11/04/2023",FALSE,"Soil scientist","No",4,2023-04-14
+"381",459,"Brian Ngo","confirmed",25,"0","71","04/20/11",NA,NA,"07/04/2023","09/04/2023",FALSE,"Stage manager","yes",10,2023-04-21
+"382",460,"Phrankie Gonzalez","probable",NA,"1","8","04/20/11",NA,NA,"05/04/2023","10/04/2023",FALSE,"Magazine journalist","No",9,2023-04-20
+"383",462,"Sonya Mercado","confirmed",26.4,"1","18","04/20/11",NA,NA,"07/04/2023","10/04/2023",FALSE,"Engineer, manufacturing systems","No",8,2023-04-19
+"384",463,"Sara Moncada Rojas","suspected",NA,"1","33","04/20/10",NA,NA,"07/04/2023","12/04/2023",FALSE,"Petroleum engineer","No",9,2023-04-19
+"385",464,"Jasmine Fields II","suspected",NA,"1","36","04/20/11",NA,NA,"08/04/2023","11/04/2023",FALSE,"Glass blower/designer","No",6,2023-04-17
+"386",465,"Benjamin Amen","confirmed",21.7,"0","46","04/20/17",NA,NA,"08/04/2023","09/04/2023",FALSE,"Charity fundraiser","No",7,2023-04-24
+"387",466,"Justice Denson","probable",NA,"1","5","04/20/09",NA,NA,"03/04/2023","06/04/2023",FALSE,"Education officer, museum","No",7,2023-04-16
+"388",467,"Danzeal Munnerlyn","confirmed",23.8,"0","32","04/20/11",NA,NA,"09/04/2023","10/04/2023",FALSE,"Chartered legal executive (England and Wales)","yes",5,2023-04-16
+"389",468,"Uriah Fleharty","probable",NA,"0","9","04/20/11",NA,NA,"04/04/2023","10/04/2023",FALSE,"Engineer, production","No",7,2023-04-18
+"390",469,"Joshua Hammond","probable",NA,"0","52","04/20/11",NA,NA,"07/04/2023","11/04/2023",FALSE,"Information systems manager","No",4,2023-04-15
+"391",472,"Brittani Perez Diaz","confirmed",28.6,"1","81","04/20/26",NA,NA,"22/04/2023","26/04/2023",FALSE,"Engineer, biomedical","No",3,2023-04-29
+"392",473,"Angel Rodriguez","confirmed",21.7,"1","73","04/20/11",NA,NA,"04/04/2023","08/04/2023",FALSE,"Intelligence analyst","No",5,2023-04-16
+"393",474,"Alexandrea Jenkins","probable",NA,"1","55","04/20/09",NA,NA,"04/04/2023","08/04/2023",FALSE,"Psychologist, forensic","yes",8,2023-04-17
+"394",475,"Stephanie Mandrell","suspected",NA,"1","8","04/20/16",NA,NA,"10/04/2023","10/04/2023",FALSE,"Systems developer","No",8,2023-04-24
+"395",476,"Manaara el-Nasser","confirmed",25.7,"1","21","04/20/16",NA,NA,"08/04/2023","13/04/2023",FALSE,"Pensions consultant","yes",10,2023-04-26
+"396",478,"Taylor Ortiz","probable",NA,"0","47","04/20/21",NA,NA,"16/04/2023","20/04/2023",FALSE,"Medical sales representative","No",9,2023-04-30
+"397",479,"Tashina Garcia","confirmed",25.2,"1","39","04/20/19",NA,NA,"15/04/2023","19/04/2023",FALSE,"Careers adviser","No",11,2023-04-30
+"398",480,"Lydia Miera","probable",NA,"1","66","04/20/21",NA,NA,"14/04/2023","18/04/2023",FALSE,"Heritage manager","No",7,2023-04-28
+"399",481,"Jack Fawcett","confirmed",28.5,"0","56","04/20/11",NA,NA,"12/04/2023","14/04/2023",FALSE,"Actuary","No",8,2023-04-19
+"400",482,"Aanisa al-Khalid","confirmed",27.3,"1","10","04/20/12","14/04/2023",NA,"05/04/2023","10/04/2023",FALSE,"Tax inspector","No",9,2023-04-21
+"401",483,"Carl Daugherty","confirmed",24.6,"0","14","04/20/11",NA,NA,"09/04/2023","13/04/2023",FALSE,"Electronics engineer","No",8,2023-04-19
+"402",484,"Luke Ross","probable",NA,"0","66","04/20/14",NA,NA,"08/04/2023","12/04/2023",FALSE,"Environmental manager","No",10,2023-04-24
+"403",485,"Halen Braxton","suspected",NA,"1","22","04/20/05",NA,NA,"02/04/2023","07/04/2023",FALSE,"Contractor","yes",2,2023-04-07
+"404",486,"William Lara","suspected",NA,"0","58","04/20/07",NA,NA,"01/04/2023","06/04/2023",FALSE,"Psychologist, forensic","No",9,2023-04-16
+"405",487,"Michael Ocana","probable",NA,"0","52","04/20/06",NA,NA,"01/04/2023","04/04/2023",FALSE,"Database administrator","yes",16,2023-04-22
+"406",488,"Jasmine Regan","confirmed",23.2,"1","64","04/20/11",NA,NA,"06/04/2023","10/04/2023",FALSE,"Training and development officer","No",5,2023-04-16
+"407",489,"Lesley Gamez Mascareno","suspected",NA,"1","29","04/20/13",NA,NA,"05/04/2023","08/04/2023",FALSE,"Journalist, broadcasting","No",5,2023-04-18
+"408",490,"Monaz Kelemeni","suspected",NA,"1","82","04/20/08","09/04/2023",NA,"09/04/2023","10/04/2023",FALSE,"Telecommunications researcher","yes",2,2023-04-10
+"409",491,"Fayelene Mcdaniel","suspected",NA,"1","3","04/20/11",NA,NA,"09/04/2023","13/04/2023",FALSE,"Engineer, civil (consulting)","No",8,2023-04-19
+"410",492,"Joseph Chapa","confirmed",24.9,"0","74","04/20/05",NA,NA,"03/04/2023","05/04/2023",FALSE,"Forensic psychologist","No",10,2023-04-15
+"411",493,"Amanda Herzing","suspected",NA,"1","64","04/20/06",NA,NA,"01/04/2023","04/04/2023",FALSE,"Field seismologist","No",4,2023-04-10
+"412",500,"Shaamikh al-Mustafa","suspected",NA,"0","52","04/20/26",NA,NA,"21/04/2023","26/04/2023",FALSE,"Designer, graphic","No",3,2023-04-29
+"413",503,"Christopher Crowe","suspected",NA,"0","40","04/20/24",NA,NA,"17/04/2023","19/04/2023",FALSE,"Company secretary","No",6,2023-04-30
+"414",504,"Aaron Hamilton","confirmed",26.2,"0","52","04/20/24",NA,NA,"17/04/2023","23/04/2023",FALSE,"Scientist, clinical (histocompatibility and immunogenetics)","No",5,2023-04-29
+"415",508,"Sidney Jackson","confirmed",26.8,"1","34","04/20/26",NA,NA,"26/04/2023","28/04/2023",FALSE,"Arts development officer","No",3,2023-04-29
+"416",510,"Shaylee Francis","confirmed",25.1,"1","16","04/20/24",NA,NA,"21/04/2023","22/04/2023",FALSE,"Horticultural therapist","No",6,2023-04-30
+"417",514,"Mathew Brown","probable",NA,"0","76","04/20/25",NA,NA,"17/04/2023","23/04/2023",FALSE,"Solicitor","No",3,2023-04-28
+"418",521,"Naafoora el-Mohamad","suspected",NA,"1","45","04/20/22",NA,NA,"20/04/2023","22/04/2023",FALSE,"Lobbyist","No",6,2023-04-28
+"419",522,"J'Rita Rubio","confirmed",23.6,"1","58","04/20/23","24/04/2023",NA,"21/04/2023","24/04/2023",FALSE,"Production engineer","No",6,2023-04-29
+"420",523,"Ryanamarie Hirokawa","suspected",NA,"1","36","04/20/22",NA,NA,"22/04/2023","23/04/2023",FALSE,"Museum education officer","yes",6,2023-04-28
+"421",524,"Alexandra Kang","probable",NA,"1","23","04/20/02",NA,NA,"29/03/2023","01/04/2023",FALSE,"Trading standards officer","No",18,2023-04-20
+"422",525,"Jims Patrick Ros","confirmed",26.5,"0","32","04/20/19",NA,NA,"14/04/2023","18/04/2023",FALSE,"Biomedical engineer","No",6,2023-04-25
+"423",526,"Philip Toubia Jr","confirmed",27.1,"0","76","04/20/19",NA,NA,"15/04/2023","18/04/2023",FALSE,"Surveyor, commercial/residential","No",2,2023-04-21
+"424",528,"Maranda Castillo","probable",NA,"1","73","04/20/18",NA,NA,"12/04/2023","13/04/2023",FALSE,"Administrator","No",3,2023-04-21
+"425",529,"Marcus Cruz","confirmed",26.3,"0","69","04/20/17",NA,NA,"15/04/2023","15/04/2023",FALSE,"Public relations officer","No",13,2023-04-30
+"426",530,"Tram-Anh Ly","probable",NA,"1","51","04/20/17",NA,NA,"13/04/2023","16/04/2023",FALSE,"Facilities manager","No",1,2023-04-18
+"427",532,"Belen Boddy","confirmed",27,"1","8","04/20/16",NA,NA,"12/04/2023","14/04/2023",FALSE,"Operations geologist","yes",8,2023-04-24
+"428",533,"Harry Kumar","confirmed",23.3,"0","54","04/20/14",NA,NA,"09/04/2023","14/04/2023",FALSE,"Designer, furniture","No",6,2023-04-20
+"429",534,"Giovani Renteria","probable",NA,"0","42","04/20/16",NA,NA,"11/04/2023","12/04/2023",FALSE,"farmer","yes",10,2023-04-26
+"430",535,"Ky Bernal","probable",NA,"0","65","04/20/12",NA,NA,"08/04/2023","11/04/2023",FALSE,"Immunologist","No",5,2023-04-17
+"431",536,"Keith Protho","suspected",NA,"0","16","04/20/17",NA,NA,"12/04/2023","15/04/2023",FALSE,"Sport and exercise psychologist","No",9,2023-04-26
+"432",537,"Sanaaa el-Bina","probable",NA,"1","17","04/20/12",NA,NA,"11/04/2023","14/04/2023",FALSE,"Designer, furniture","No",6,2023-04-18
+"433",538,"Muhsin el-Ben","confirmed",22.8,"0","69","04/20/15","15/04/2023",NA,"12/04/2023","14/04/2023",FALSE,"Public affairs consultant","No",9,2023-04-24
+"434",539,"Katherine Anderson","probable",NA,"1","7","04/20/14",NA,NA,"12/04/2023","13/04/2023",FALSE,"Sports administrator","No",10,2023-04-24
+"435",541,"Vincent Beauman","confirmed",23.6,"0","4","04/20/13",NA,NA,"09/04/2023","11/04/2023",FALSE,"Intelligence analyst","No",7,2023-04-20
+"436",542,"Jessica Coronado Vazquez","probable",NA,"1","57","04/20/15",NA,NA,"08/04/2023","12/04/2023",FALSE,"Programme researcher, broadcasting/film/video","No",7,2023-04-22
+"437",543,"David Jensen","probable",NA,"0","10","04/20/13",NA,NA,"11/04/2023","16/04/2023",FALSE,"Engineer, water","yes",4,2023-04-17
+"438",544,"Thaaqib al-Suleiman","confirmed",24.3,"0","72","04/20/14",NA,NA,"15/04/2023","18/04/2023",FALSE,"Surveyor, land/geomatics","No",6,2023-04-20
+"439",545,"Uqbah el-Shad","suspected",NA,"0","60","04/20/13",NA,NA,"09/04/2023","13/04/2023",FALSE,"Health physicist","No",6,2023-04-19
+"440",546,"Hayley Schweinhardt","confirmed",25.1,"1","12","04/20/15",NA,NA,"13/04/2023","16/04/2023",FALSE,"Civil Service fast streamer","No",10,2023-04-25
+"441",547,"Kristofer Carbajal Parra","probable",NA,"0","33","04/20/24",NA,NA,"14/04/2023","15/04/2023",FALSE,"Engineer, control and instrumentation","No",1,2023-04-25
+"442",548,"Hunter Lovato","confirmed",24.2,"0","14","04/20/13",NA,NA,"11/04/2023","15/04/2023",FALSE,"Insurance underwriter","No",5,2023-04-18
+"443",553,"Ikram el-Farman","probable",NA,"0","40","04/20/17",NA,NA,"09/04/2023","12/04/2023",FALSE,"Exhibition designer","No",7,2023-04-24
+"444",554,"Johnquetta Maxwell","probable",NA,"1","32","04/20/11",NA,NA,"08/04/2023","10/04/2023",FALSE,"Electrical engineer","No",5,2023-04-16
+"445",555,"Imraan el-Farah","suspected",NA,"0","74","04/20/19",NA,NA,"16/04/2023","17/04/2023",FALSE,"Teacher, primary school","No",6,2023-04-25
+"446",564,"Haleigh Howell","probable",NA,"1","16","04/20/12",NA,NA,"15/04/2023","16/04/2023",FALSE,"Waste management officer","No",4,2023-04-16
+"447",565,"Manuel Revello","confirmed",22.9,"0","45","04/20/15",NA,NA,"08/04/2023","13/04/2023",FALSE,"Higher education careers adviser","No",3,2023-04-18
+"448",566,"Jaylin Brokenberry","suspected",NA,"0","67","04/20/19",NA,NA,"11/04/2023","14/04/2023",FALSE,"Therapist, occupational","No",6,2023-04-25
+"449",567,"Zack Viert","confirmed",27.9,"0","23","04/20/10",NA,NA,"03/04/2023","07/04/2023",FALSE,"Air cabin crew","No",5,2023-04-15
+"450",569,"Isaac Wantings","probable",NA,"0","1","04/20/19","27/04/2023","30/04/2023","11/04/2023","15/04/2023",FALSE,"agricultural worker","No",8,2023-04-27
+"451",570,"Marzooqa el-Farid","suspected",NA,"1","50","04/20/20",NA,NA,"12/04/2023","17/04/2023",FALSE,"Mechanical engineer","No",5,2023-04-25
+"452",573,"Deidre Rivas Carrillo","confirmed",27.6,"1","8","04/20/09",NA,NA,"05/04/2023","11/04/2023",FALSE,"Airline pilot","No",14,2023-04-23
+"453",575,"Jordan Vonderlippe","confirmed",25.9,"1","18","04/20/24",NA,NA,"25/04/2023","29/04/2023",FALSE,"Speech and language therapist","No",3,2023-04-27
+"454",590,"Wyatt Herrera","confirmed",28.5,"0","16","04/20/26",NA,NA,"23/04/2023","26/04/2023",FALSE,"Community pharmacist","No",3,2023-04-29
+"455",610,"Karina Renz Char","confirmed",26.6,"1","41","04/20/05",NA,NA,"31/03/2023","04/04/2023",FALSE,"farmer","No",12,2023-04-17
+"456",611,"Juwan Mckisson","confirmed",27,"0","4","04/20/07",NA,NA,"03/04/2023","05/04/2023",FALSE,"Interior and spatial designer","No",5,2023-04-12
+"457",614,"Kristin Hartman","confirmed",27.2,"1","83","04/20/18","19/04/2023",NA,"16/04/2023","19/04/2023",FALSE,"Teacher, English as a foreign language","yes",10,2023-04-28
+"458",615,"Sultana el-Shahan","confirmed",26,"1","21","04/20/20",NA,NA,"18/04/2023","19/04/2023",FALSE,"Rural practice surveyor","No",9,2023-04-29
+"459",616,"Brenda Woo","suspected",NA,"1","73","04/20/20",NA,NA,"14/04/2023","19/04/2023",FALSE,"Forensic psychologist","No",2,2023-04-22
+"460",617,"Deeana Burcher","probable",NA,"f","68","04/20/19",NA,NA,"17/04/2023","20/04/2023",FALSE,"Town planner","yes",9,2023-04-28
+"461",618,"Rasheeqa el-Rafiq","suspected",NA,"f","75","04/20/20",NA,NA,"20/04/2023","21/04/2023",FALSE,"Furniture conservator/restorer","yes",7,2023-04-27
+"462",619,"Rose Sala","probable",NA,"F","70","04/20/24",NA,NA,"20/04/2023","24/04/2023",FALSE,"Social research officer, government","No",4,2023-04-28
+"463",621,"Calvin Lindauer","probable",NA,"0","35","04/20/18",NA,NA,"16/04/2023","18/04/2023",FALSE,"Environmental education officer","No",5,2023-04-23
+"464",624,"Marisa Jaramillo","confirmed",26,"1","75","04/20/14",NA,NA,"07/04/2023","12/04/2023",FALSE,"Sound technician, broadcasting/film/video","No",10,2023-04-24
+"465",625,"Nuha al-Salik","probable",NA,"1","84","04/20/17",NA,NA,"09/04/2023","12/04/2023",FALSE,"Materials engineer","No",5,2023-04-22
+"466",626,"Catrina Patterson","suspected",NA,"1","42","04/20/19",NA,NA,"12/04/2023","15/04/2023",FALSE,"Engineer, civil (contracting)","No",10,2023-04-29
+"467",627,"Humaid el-Ullah","probable",NA,"0","30","04/20/15",NA,NA,"17/04/2023","17/04/2023",FALSE,"Engineer, civil (consulting)","yes",5,2023-04-20
+"468",630,"Alexandra Balin","confirmed",25,"1","34","04/20/15",NA,NA,"10/04/2023","17/04/2023",FALSE,"farmer","yes",4,2023-04-19
+"469",632,"Marcella Castle","confirmed",25.1,"1","40","04/20/17",NA,NA,"09/04/2023","17/04/2023",FALSE,"Associate Professor","No",9,2023-04-26
+"470",633,"Nathan Tezak","suspected",NA,"0","44","04/20/16",NA,NA,"17/04/2023","17/04/2023",FALSE,"Academic librarian","No",8,2023-04-24
+"471",634,"Fateen el-Fahmy","confirmed",24.1,"0","48","04/20/16",NA,NA,"12/04/2023","15/04/2023",FALSE,"Building surveyor","No",6,2023-04-22
+"472",635,"Nila Teske","suspected",NA,"1","9","04/20/17",NA,NA,"10/04/2023","15/04/2023",FALSE,"Teacher, English as a foreign language","No",5,2023-04-22
+"473",640,"Yuying Frederick","suspected",NA,"1","39","04/20/19",NA,NA,"20/04/2023","21/04/2023",FALSE,"Television/film/video producer","No",10,2023-04-29
+"474",641,"Tyler Glaser","confirmed",27.1,"0","77","04/20/13",NA,NA,"15/04/2023","16/04/2023",FALSE,"Development worker, international aid","No",8,2023-04-21
+"475",642,"Daniel Delude","probable",NA,"0","87","04/20/14",NA,NA,"11/04/2023","14/04/2023",FALSE,"Charity fundraiser","No",7,2023-04-21
+"476",643,"Tabitha Smith","confirmed",25.5,"1","80","04/20/23",NA,NA,"19/04/2023","22/04/2023",FALSE,"Fine artist","No",6,2023-04-29
+"477",644,"Kacee Salinas","confirmed",27.4,"1","37","04/20/21",NA,NA,"19/04/2023","23/04/2023",FALSE,"Barrister","No",3,2023-04-24
+"478",649,"Kelsea Ramirez","probable",NA,"1","29","04/20/26",NA,NA,"24/04/2023","27/04/2023",FALSE,"Editor, magazine features","No",3,2023-04-29
+"479",652,"Francesca Wolberg","confirmed",26.1,"1","59","04/20/27","30/04/2023",NA,"23/04/2023","28/04/2023",FALSE,"Legal executive","yes",3,2023-04-30
+"480",656,"Liandra Wilkerson","probable",NA,"1","23","04/20/24",NA,NA,"23/04/2023","25/04/2023",FALSE,"Chief Operating Officer","No",6,2023-04-30
+"481",659,"Marysa Garbani","confirmed",26.6,"1","18","04/20/17",NA,NA,"11/04/2023","16/04/2023",FALSE,"Orthoptist","No",3,2023-04-20
+"482",660,"Mus'ab al-Rafiq","probable",NA,"0","58","04/20/15",NA,NA,"09/04/2023","15/04/2023",FALSE,"Speech and language therapist","No",5,2023-04-20
+"483",661,"Benjamin Harris","confirmed",22.6,"0","86","04/20/23","25/04/2023","08/05/2023","17/04/2023","18/04/2023",FALSE,"Ship broker","No",4,2023-04-27
+"484",662,"Kaci Mickelson","probable",NA,"1","57","04/20/28",NA,NA,"25/04/2023","26/04/2023",FALSE,"Solicitor, Scotland","No",2,2023-04-30
+"485",664,"Vivian Smith","probable",NA,"1","36","04/20/19",NA,NA,"19/04/2023","20/04/2023",FALSE,"Production assistant, television","No",11,2023-04-30
+"486",668,"Harrison Suriwong","probable",NA,"0","86","04/20/13",NA,"25/04/2023","08/04/2023","12/04/2023",FALSE,"Actor","No",7,2023-04-20
+"487",669,"Ryan Gettman","suspected",NA,"0","3","04/20/13",NA,NA,"03/04/2023","11/04/2023",FALSE,"Oceanographer","No",13,2023-04-26
+"488",705,"Gurnam Auyeung","suspected",NA,"0","12","04/20/08",NA,NA,"08/04/2023","10/04/2023",FALSE,"Human resources officer","No",8,2023-04-16
+"489",706,"Yvonne Lakhani","confirmed",26.7,"1","72","04/20/11",NA,"13/05/2023","09/04/2023","10/04/2023",FALSE,"Animal technologist","No",16,2023-04-27
+"490",707,"Frances Adame","probable",NA,"1","50","04/20/11",NA,NA,"06/04/2023","09/04/2023",FALSE,"Colour technologist","No",9,2023-04-20
+"491",709,"Kathy Zhang","suspected",NA,"1","54","04/20/26",NA,NA,"27/04/2023","27/04/2023",FALSE,"Scientist, product/process development","No",4,2023-04-30
+"492",711,"Isoka Shoeboot","confirmed",28.8,"1","20","04/20/19",NA,NA,"18/04/2023","19/04/2023",FALSE,"Secondary school teacher","No",3,2023-04-22
+"493",712,"Rosa Ramirez-Luna","suspected",NA,"1","79","04/20/25",NA,NA,"20/04/2023","21/04/2023",FALSE,"Comptroller","No",2,2023-04-27
+"494",713,"Tameema al-Can","probable",NA,"FF","50","04/20/22",NA,NA,"20/04/2023","21/04/2023",FALSE,"Surveyor, commercial/residential","yes",8,2023-04-30
+"495",715,"Brendan Martinez","probable",NA,"0","14","04/20/23",NA,NA,"17/04/2023","22/04/2023",FALSE,"Hydrologist","No",7,2023-04-30
+"496",716,"Leah Brisco","probable",NA,"1","47","04/20/22",NA,NA,"13/04/2023","18/04/2023",FALSE,"Museum/gallery curator","No",8,2023-04-30
+"497",717,"Taylor Mallett","confirmed",25.1,"1","72","04/20/21",NA,NA,"14/04/2023","20/04/2023",FALSE,"Museum/gallery curator","yes",7,2023-04-28
+"498",718,"Sandra Bernal","probable",NA,"1","29","04/20/20",NA,NA,"17/04/2023","20/04/2023",FALSE,"Cytogeneticist","No",6,2023-04-26
+"499",721,"Saamyya el-Yousif","probable",NA,"1","73","04/20/18",NA,NA,"18/04/2023","21/04/2023",FALSE,"farmer","yes",5,2023-04-23
+"500",723,"Tiah Parker","suspected",NA,"1","19","04/20/21",NA,NA,"15/04/2023","18/04/2023",FALSE,"Psychologist, clinical","No",5,2023-04-26
+"501",724,"Alfonso Rodarte","suspected",NA,"0","70","04/20/21",NA,NA,"16/04/2023","17/04/2023",FALSE,"Social worker","No",6,2023-04-27
+"502",727,"Megan Lambertson","probable",NA,"1","90","04/20/17",NA,NA,"16/04/2023","20/04/2023",FALSE,"Trading standards officer","No",5,2023-04-22
+"503",729,"Haamida el-Youssef","probable",NA,"1","66","04/20/20",NA,NA,"22/04/2023","23/04/2023",FALSE,"Engineer, manufacturing systems","yes",7,2023-04-27
+"504",734,"Sean Lottie","probable",NA,"0","16","04/20/16",NA,NA,"17/04/2023","19/04/2023",FALSE,"Proofreader","No",4,2023-04-20
+"505",735,"Ashley Chu","probable",NA,"1","86","04/20/17",NA,"27/04/2023","17/04/2023","18/04/2023",FALSE,"Air broker","yes",11,2023-04-28
+"506",759,"Suly Isaac","confirmed",26,"1","71","04/20/18",NA,NA,"14/04/2023","18/04/2023",FALSE,"Insurance risk surveyor","yes",5,2023-04-23
+"507",760,"Brenna Klugesherz","confirmed",23.1,"FF","89","04/20/17",NA,NA,"13/04/2023","16/04/2023",FALSE,"Structural engineer","No",5,2023-04-22
+"508",761,"Devin Broadway","suspected",NA,"0","13","04/20/25",NA,NA,"19/04/2023","23/04/2023",FALSE,"Health and safety adviser","No",4,2023-04-29
+"509",764,"Anthony Nickel","confirmed",25.9,"0","55","04/20/20",NA,NA,"18/04/2023","21/04/2023",FALSE,"Medical technical officer","No",7,2023-04-27
+"510",765,"Jessica Lakkaraju","probable",NA,"f","61","04/20/23",NA,NA,"20/04/2023","24/04/2023",FALSE,"Health service manager","No",2,2023-04-25
+"511",767,"Scott Kirk","probable",NA,"0","87","04/20/25",NA,NA,"23/04/2023","26/04/2023",FALSE,"Research scientist (medical)","No",3,2023-04-28
+"512",768,"Rahma el-Mina","suspected",NA,"1","88","04/20/15","20/04/2023","21/05/2023","10/04/2023","14/04/2023",FALSE,"Secretary/administrator","No",15,2023-04-30
+"513",769,"Brandon Ruybal Enriquez","confirmed",25.1,"0","61","04/20/23","26/04/2023",NA,"09/04/2023","13/04/2023",FALSE,"Research scientist (physical sciences)","No",6,2023-04-29
+"514",770,"Hamood el-Safi","confirmed",27.4,"0","6mo","04/20/16",NA,NA,"12/04/2023","19/04/2023",FALSE,"Psychologist, counselling","No",13,2023-04-29
+"515",771,"Briana Doherty","suspected",NA,"1","37","04/20/16",NA,NA,"16/04/2023","17/04/2023",FALSE,"Curator","No",7,2023-04-23
+"516",804,"Neima Finley Ponds","suspected",NA,"1","86","04/20/20",NA,"11/05/2023","03/04/2023","09/04/2023",FALSE,"Office manager","No",8,2023-04-28
+"517",820,"Jose Flores-Roman","confirmed",28.3,"0","25","04/20/22",NA,NA,"25/04/2023","26/04/2023",FALSE,"Market researcher","No",3,2023-04-25
+"518",825,"Philip Cayabyab","confirmed",24.4,"0","59","04/20/26",NA,NA,"17/04/2023","22/04/2023",FALSE,"Youth worker","yes",4,2023-04-30
+"519",833,"Jazmine Todacheene","suspected",NA,"1","13","04/20/20",NA,NA,"19/04/2023","23/04/2023",FALSE,"Administrator, education","No",3,2023-04-23
+"520",834,"Sarah Juarez-Karner","suspected",NA,"1","28","04/20/22",NA,NA,"14/04/2023","20/04/2023",FALSE,"Chartered accountant","No",8,2023-04-30
+"521",835,"Ty Lindsay","confirmed",22.6,"0","73","04/20/24",NA,NA,"18/04/2023","20/04/2023",FALSE,"Statistician","No",4,2023-04-28
+"522",838,"Imagine Perez","probable",NA,"1","35","04/20/26",NA,NA,"14/04/2023","20/04/2023",FALSE,"Associate Professor","yes",2,2023-04-28
+"523",839,"Virginia Archibeque","confirmed",28.3,"1","49","04/20/20",NA,NA,"15/04/2023","19/04/2023",FALSE,"Arts development officer","No",5,2023-04-25
+"524",865,"Fredrick Baca","probable",NA,"0","9","04/20/20",NA,NA,"15/04/2023","20/04/2023",FALSE,"Drilling engineer","No",6,2023-04-26
+"525",867,"Tessa Trinh","suspected",NA,"1","13","04/20/26",NA,NA,"23/04/2023","28/04/2023",FALSE,"Scientist, audiological","No",4,2023-04-30
+"526",871,"Rick Pruegner","probable",NA,"0","30","04/20/18",NA,"10/05/2023","14/04/2023","18/04/2023",FALSE,"Haematologist","No",5,2023-04-23
+"527",872,"Phillip Caster","probable",NA,"0","30","04/20/18",NA,NA,"14/04/2023","18/04/2023",FALSE,"Trade union research officer","No",3,2023-04-21
+"528",873,"Aaron Quitoriano","suspected",NA,"0","43","04/20/26",NA,NA,"19/04/2023","23/04/2023",FALSE,"Office manager","No",1,2023-04-27
+"529",874,"Christian Dance","confirmed",26.3,"0","65","04/20/18",NA,"01/05/2023","15/04/2023","17/04/2023",FALSE,"Furniture designer","No",10,2023-04-28
+"530",875,"Alisiana Kynard","probable",NA,"1","20","04/20/17",NA,NA,"15/04/2023","19/04/2023",FALSE,"Furniture conservator/restorer","yes",11,2023-04-28
+"531",933,"Taylor Bellinger","confirmed",28.3,"1","32","04/20/24",NA,NA,"20/04/2023","23/04/2023",FALSE,"Personnel officer","No",4,2023-04-28
+"532",935,"Laura Longbattle","probable",NA,"1","76","04/20/25","28/04/2023",NA,"24/04/2023","25/04/2023",FALSE,"Programmer, multimedia","No",5,2023-04-30
+"533",937,"Pauline Xatkoun","confirmed",25.7,"1","73","04/20/28",NA,NA,"23/04/2023","27/04/2023",FALSE,"Investment analyst","yes",1,2023-04-29
+"534",959,"Mastoor al-Salame","confirmed",22.2,"man","24","04/20/27",NA,NA,"25/04/2023","28/04/2023",FALSE,"Air cabin crew","yes",2,2023-04-29
+"535",964,"Connie Lor","confirmed",29.9,"1","81","04/20/25",NA,NA,"25/04/2023","27/04/2023",FALSE,"Editor, film/video","No",4,2023-04-29
+"536",1007,"Henry Benedict","probable",NA,"0","64","04/20/19",NA,NA,"20/04/2023","23/04/2023",FALSE,"Psychotherapist","No",5,2023-04-24
+"537",1011,"Sumayya el-Moghaddam","confirmed",25.5,"1","85","04/20/21",NA,"03/05/2023","20/04/2023","23/04/2023",FALSE,"Applications developer","yes",2,2023-04-23
