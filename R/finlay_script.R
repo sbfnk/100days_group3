@@ -31,7 +31,8 @@ ttree$linelist %<>% mutate(
 )
 
 ## serial interval
-si <- EpiNow2::bootstrapped_dist_fit(get_pairwise(ttree, "onset_date"), dist = "gamma")
+si <- get_pairwise(ttree, "onset_date")
+si_dist <- EpiNow2::bootstrapped_dist_fit(si, dist = "gamma", samples = 250)
 
 ## visualise tree
 vis_tree(tree) %>%
@@ -54,7 +55,7 @@ net <- plot(
   thin(epi, "contacts"),
   network_shape = "rectangle",
   x_axis = "onset_date",
-  height = 2500,
+  height = 3500,
   arrow_size = 0.1,
   font_size = 25,
   label = FALSE,
@@ -63,8 +64,12 @@ net <- plot(
   col_pal = c("TRUE" = "orange", "FALSE" = "purple"),
   reverse_root_order = TRUE,
   selector = "id",
-  axis_type = "double"
+  axis_type = "double",
+  thin = FALSE,
+  unlinked_pos = "middle",
+  highlight_downstream = TRUE
 )
 
 ## export visnetwork
 visNetwork::visSave(net, here("figures/ttree.html"))
+
